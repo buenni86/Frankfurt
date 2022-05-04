@@ -1729,25 +1729,16 @@
          "columns":12,
          "firstgid":8451,
          "image":"src\/Tilesets\/tileset2.png",
-         "imageheight":360,
-         "imagewidth":432,
-         "margin":2,
+         "imageheight":340,
+         "imagewidth":408,
+         "margin":1,
          "name":"tileset2",
-         "spacing":4,
+         "spacing":2,
          "tilecount":120,
          "tileheight":32,
          "tiles":[
                 {
                  "id":10,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":11,
                  "properties":[
                         {
                          "name":"collides",
@@ -1766,15 +1757,6 @@
                 }, 
                 {
                  "id":22,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":23,
                  "properties":[
                         {
                          "name":"collides",
