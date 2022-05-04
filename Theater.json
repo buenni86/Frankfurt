@@ -387,7 +387,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":40,
          "id":31,
-         "name":"event",
+         "name":"jitsi-event",
          "opacity":1,
          "properties":[
                 {
@@ -403,7 +403,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"theatre-event"
+                 "value":"theater-event"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -1464,7 +1464,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"theatre.png"
+         "value":"Theater.png"
         }, 
         {
          "name":"mapName",
