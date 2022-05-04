@@ -10356,7 +10356,7 @@
                 {
                  "name":"visible",
                  "type":"string",
-                 "value":"{{^exitSouthURL}}0{{\/exitSouthURL}}"
+                 "value":"{{^exitSouthURL}}1{{\/exitSouthURL}}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -10465,7 +10465,7 @@
                 {
                  "name":"visible",
                  "type":"string",
-                 "value":"{{^exitWestURL}}0{{\/exitWestURL}}"
+                 "value":"{{^exitWestURL}}1{{\/exitWestURL}}"
                 }],
          "type":"tilelayer",
          "visible":true,
