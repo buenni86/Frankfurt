@@ -10091,7 +10091,7 @@
                          "height":113,
                          "id":115,
                          "name":"exit-hawaii",
-                         "opacity":0.6,
+                         "opacity":0,
                          "properties":[
                                 {
                                  "name":"exitUrl",

@@ -442,7 +442,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
                  "type":"string",
                  "value":"src\/assets\/audio\/Elysee_mars_test.mp3"
                 }],
