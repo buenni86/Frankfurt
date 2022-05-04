@@ -1056,7 +1056,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"tul-workshop1"
+                         "value":"hawaii-workshop1"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1143,7 +1143,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"tul-workshop2"
+                         "value":"hawaii-workshop2"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1230,7 +1230,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"tul-workshop3"
+                         "value":"hawaii-workshop3"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1317,7 +1317,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"tul-workshop4"
+                         "value":"hawaii-workshop4"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1404,7 +1404,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"tul-workshop5"
+                         "value":"hawaii-workshop5"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1491,7 +1491,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"tul-beach-1"
+                         "value":"hawaii-beach-1"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1578,7 +1578,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"tul-beach-2"
+                         "value":"hawaii-beach-2"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1665,7 +1665,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"tul-beach-quiz1"
+                         "value":"hawaii-beach-quiz1"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1752,7 +1752,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"tul-beach-quiz2"
+                         "value":"hawaii-beach-quiz2"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1839,7 +1839,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"tul-table-tennis-1"
+                         "value":"hawaii-table-tennis-1"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1926,7 +1926,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"tul-table-tennis-2"
+                         "value":"hawaii-table-tennis-2"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -2317,7 +2317,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":60,
          "id":132,
-         "name":"exit_space",
+         "name":"exit_frankfurt",
          "opacity":1,
          "properties":[
                 {
@@ -7009,22 +7009,22 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"TuL Hawaii"
+         "value":"Hawaii"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"hawaii.png"
+         "value":"Hawaii.png"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"TuL-Hawaii"
+         "value":"Hawaii"
         }, 
         {
          "name":"script",
          "type":"string",
-         "value":"script.js"
+         "value":"skript.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.8.4",
