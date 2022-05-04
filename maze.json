@@ -189,7 +189,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/tul-maze#stairs"
+                 "value":".\/maze#stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -228,7 +228,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/tul-maze#top-stairs"
+                 "value":".\/maze#top-stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
