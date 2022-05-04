@@ -12287,7 +12287,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
+         "value":"great-place-to-work.png"
         }, 
         {
          "name":"mapLink",
@@ -12302,12 +12302,12 @@
         {
          "name":"script",
          "type":"string",
-         "value":"script.js"
+         "value":"skript.js"
         }, 
         {
          "name":"tutorial",
          "type":"bool",
-         "value":true
+         "value":false
         }],
  "renderorder":"right-down",
  "tiledversion":"1.8.4",

@@ -630,7 +630,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
+         "value":"future-of-work.png"
         }, 
         {
          "name":"mapLink",
@@ -650,7 +650,7 @@
         {
          "name":"tutorial",
          "type":"bool",
-         "value":true
+         "value":false
         }],
  "renderorder":"right-down",
  "tiledversion":"1.8.4",
