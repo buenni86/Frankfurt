@@ -822,7 +822,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"south-red-1-tul"
+                         "value":"south-red-1-spacestation"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -949,7 +949,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"south-red-2-tul"
+                         "value":"south-red-2-spacestation"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1076,7 +1076,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"kitchen-tul"
+                         "value":"kitchen-spacestation"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1203,7 +1203,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"west-purple-1-tul"
+                         "value":"west-purple-1-spacestation"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1330,7 +1330,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"west-purple-2-tul"
+                         "value":"west-purple-2-spacestation"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1457,7 +1457,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"north-blue-1-tul"
+                         "value":"north-blue-1-spacestation"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1584,7 +1584,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"north-blue-2-tul"
+                         "value":"north-blue-2-spacestation"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1711,7 +1711,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"north-brown-1-tul"
+                         "value":"north-brown-1-spacestation"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1838,7 +1838,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"north-brown-2-tul"
+                         "value":"north-brown-2-spacestation"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1965,7 +1965,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"north-green-1-tul"
+                         "value":"north-green-1-spacestation"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -2092,7 +2092,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"north-green-2-tul"
+                         "value":"north-green-2-spacestation"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -2219,7 +2219,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"tul-theater"
+                         "value":"spacestation-theater"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -4049,7 +4049,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"DB TuL"
+         "value":"DB Spacestation"
         }, 
         {
          "name":"mapImage",
@@ -4059,12 +4059,12 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"TuL"
+         "value":"Spacestation"
         }, 
         {
          "name":"script",
          "type":"string",
-         "value":"script.js"
+         "value":"skript.js"
         }, 
         {
          "name":"tutorial",
