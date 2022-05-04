@@ -3110,7 +3110,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":".\/Frankfurt#special_area\/exits\/entry-elysee"
+                         "value":""
                         }, 
                         {
                          "name":"description",
@@ -3381,7 +3381,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
+         "value":"elysee.png"
         }, 
         {
          "name":"mapLink",
@@ -3396,7 +3396,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"script.js"
+         "value":"skript.js"
         }, 
         {
          "name":"tutorial",
