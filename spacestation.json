@@ -3891,7 +3891,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":".\/Frankfurt#special_area\/exits\/entry-spacestation"
+                         "value":".\/frankfurt#special_area\/exits\/entry-spacestation"
                         }, 
                         {
                          "name":"description",

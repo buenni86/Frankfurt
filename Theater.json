@@ -51,7 +51,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Beach-Club#entrance3"
+                 "value":".\/beach-club#entrance3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -108,7 +108,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Beach-Club#entrance2"
+                 "value":".\/beach-club#entrance2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -165,7 +165,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Beach-Club#entrance1"
+                 "value":".\/beach-club#entrance1"
                 }],
          "type":"tilelayer",
          "visible":true,

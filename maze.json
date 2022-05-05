@@ -267,7 +267,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Hawaii#start_vulcano"
+                 "value":".\/hawaii#start_vulcano"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -537,7 +537,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Hawaii#start_top-vulcano"
+                 "value":".\/hawaii#start_top-vulcano"
                 }],
          "type":"tilelayer",
          "visible":true,

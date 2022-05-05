@@ -81,7 +81,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Frankfurt#special_area\/exits\/entry-weihnachtsmarkt"
+                 "value":".\/frankfurt#special_area\/exits\/entry-weihnachtsmarkt"
                 }],
          "type":"tilelayer",
          "visible":true,

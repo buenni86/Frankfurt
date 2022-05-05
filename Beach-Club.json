@@ -108,7 +108,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Frankfurt#special_area\/exits\/entry-beach-club"
+                 "value":".\/frankfurt#special_area\/exits\/entry-beach-club"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -336,7 +336,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Theater#entrance3"
+                 "value":".\/theater#entrance3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -393,7 +393,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Theater#entrance2"
+                 "value":".\/theater#entrance2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -450,7 +450,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Theater#entrance1"
+                 "value":".\/theater#entrance1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -574,7 +574,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"beachclub-meeting1"
+                 "value":"beach-club-meeting1"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -646,7 +646,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"beachclub-meeting2"
+                 "value":"beach-club-meeting2"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -718,7 +718,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"beachclub-meeting3"
+                 "value":"beach-club-meeting3"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -790,7 +790,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"beachclub-meeting4"
+                 "value":"beach-club-meeting4"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -2153,7 +2153,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"Beach-Club.png"
+         "value":"beach-club.png"
         }, 
         {
          "name":"mapName",

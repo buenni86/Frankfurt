@@ -11136,7 +11136,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":".\/Frankfurt#special_area\/exits\/entry-great-place-to-work"
+                         "value":".\/frankfurt#special_area\/exits\/entry-great-place-to-work"
                         }, 
                         {
                          "name":"description",
@@ -11174,7 +11174,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":".\/Frankfurt#special_area\/exits\/entry-great-place-to-work"
+                         "value":".\/frankfurt#special_area\/exits\/entry-great-place-to-work"
                         }, 
                         {
                          "name":"description",

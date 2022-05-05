@@ -2323,7 +2323,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Frankfurt#special_area\/exits\/entry-hawaii"
+                 "value":".\/frankfurt#special_area\/exits\/entry-hawaii"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -7014,7 +7014,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"Hawaii.png"
+         "value":"hawaii.png"
         }, 
         {
          "name":"mapName",

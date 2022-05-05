@@ -491,7 +491,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Frankfurt#special_area\/exits\/entry-kaiserbahnhof"
+                 "value":".\/frankfurt#special_area\/exits\/entry-kaiserbahnhof"
                 }],
          "type":"tilelayer",
          "visible":true,

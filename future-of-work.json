@@ -72,7 +72,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Frankfurt#special_area\/exits\/entry-future-of-work"
+                 "value":".\/frankfurt#special_area\/exits\/entry-future-of-work"
                 }],
          "type":"tilelayer",
          "visible":true,

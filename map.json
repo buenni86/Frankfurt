@@ -6727,7 +6727,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":".\/Frankfurt#special_area\/exits\/entry-mainstation-portal"
+                                 "value":".\/frankfurt#special_area\/exits\/entry-mainstation-portal"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -6857,7 +6857,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":".\/Frankfurt#special_area\/exits\/entry-silvertower-portal"
+                                 "value":".\/frankfurt#special_area\/exits\/entry-silvertower-portal"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -7247,7 +7247,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":".\/Frankfurt#special_area\/exits\/entry-stairs-south"
+                                 "value":".\/frankfurt#special_area\/exits\/entry-stairs-south"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -7377,7 +7377,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":".\/Frankfurt#special_area\/exits\/entry-stairs-north"
+                                 "value":".\/frankfurt#special_area\/exits\/entry-stairs-north"
                                 }],
                          "type":"tilelayer",
                          "visible":true,

@@ -7557,7 +7557,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":".\/Frankfurt#special_area\/exits\/entry-university"
+                         "value":".\/frankfurt#special_area\/exits\/entry-university"
                         }, 
                         {
                          "name":"description",
@@ -7595,7 +7595,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":".\/Frankfurt#special_area\/exits\/entry-university"
+                         "value":".\/frankfurt#special_area\/exits\/entry-university"
                         }, 
                         {
                          "name":"description",
