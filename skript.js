@@ -12,6 +12,7 @@ function closePopUp(){
 }
 
 
+var zoneEVS = "evs-info";
 var zoneIntro = "intro";
 var zoneTutorial = "tutorial";
 var zoneTutorial1 = "tutorial1";
@@ -20,9 +21,15 @@ var zoneGuide = "guide";
 var zoneGuide1 = "guide1";
 var zoneGuide2 = "guide2";
 var zonePong = "pong";
+var Mail = "mailto:DB.Systel.CommunicationServices.EVS@deutschebahn.com";
 
-var introMsg = "Willkommen bei DB WorkAdventure.\n\nWir freuen uns, dass Sie bei unserem Metaverse dabei sind."
-"Wir wünschen Ihnen viel Spaß!";
+var evsMsg = "Du hast eine Frage zu WorkAdventure, aber wir sind gerade nicht da? Schreib uns!";
+
+var introMsg = "Willkommen bei unserer WorkAdventure Worldtour!\n\nZur Bewegung deines Avatar nutze einfach die Pfeiltasten der Tastatur!\n" +
+"Für weitere Infos besuche unser Tutorial oder unseren WorkAdventure-Stand!\n" +
+"Nutze die Chance und gehe auf Entdeckungstour durch unser 16-Bit Universum,\num Möglichkeiten für spontanen Austausch,\nInteraktion und Zusammenarbeiten kennenzulernen.\n" +
+"Vielleicht findet sich bei unserer virtuellen Besichtigungstour sogar der perfekten Ort des zukünftiges Wunschbüros oder eine digitale Eventlocation.\n\n" +
+"Wir wünschen viel Spaß!";
 
 var guideMsg = "Wegweiser\n\n" +
 "Hauptbahnhof (Norden): Stiller Bereich\n" +
@@ -44,8 +51,17 @@ var pongMsg = "Pong gegeneinander?\n\n1.Wählen Sie Online-Mehrspielermodus\n" +
 WA.room.onEnterZone(zoneIntro, () => {
     currentPopup = WA.ui.openPopup("popUpIntro", introMsg, [
         {
-            label: "Alles Klar!",
+            label: "Weltreise\nstarten!",
             callback: (popup => {
+                closePopUp();
+            })
+        },
+        {
+            label: "Tutorial",
+			className:"primary",
+            callback: (popup => {
+                WA.openTab(urlTutorial);
+                isCoWebSiteOpened = true;
                 closePopUp();
             })
         }]);
@@ -56,6 +72,23 @@ WA.room.onEnterZone(zoneIntro, () => {
 })
 
 WA.room.onLeaveZone(zoneIntro, () => {
+    closePopUp();
+})
+
+WA.room.onEnterZone(zoneEVS, () => {
+    currentPopup = WA.ui.openPopup("popUpEVS", evsMsg, [
+        {
+            label: "📧 Team EVS 📧",
+			className:"primary",
+			callback: (popup => {
+                WA.nav.openTab(Mail);
+                isCoWebSiteOpened = true;
+                closePopUp();
+            })
+        }]);    
+})
+
+WA.room.onLeaveZone(zoneEVS, () => {
     closePopUp();
 })
 
