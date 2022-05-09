@@ -1,3 +1,5 @@
+import { } from "https://unpkg.com/@workadventure/scripting-api-extra@^1";
+
 var currentPopup = undefined;
 var isCoWebSiteOpened =  false;
 var urlMusikClassic = "https://open.spotify.com/embed/playlist/37i9dQZF1DX1LCddwjCqDK?utm_source=generator";
