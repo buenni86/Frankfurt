@@ -4064,7 +4064,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"skript.js"
+         "value":"skript_spacestation.js"
         }, 
         {
          "name":"tutorial",
