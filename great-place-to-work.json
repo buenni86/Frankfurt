@@ -855,6 +855,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"SlaterTow"
@@ -862,17 +867,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Slater Tow"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -979,6 +979,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Specialist"
@@ -986,17 +991,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Specialist"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1103,6 +1103,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"CarnegieRoom"
@@ -1110,17 +1115,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Carnegie Room"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1227,6 +1227,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MotherLeaves"
@@ -1234,17 +1239,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Mother Leaves"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1351,6 +1351,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"BlueWave"
@@ -1358,17 +1363,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Blue Wave"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1475,6 +1475,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"PentaRegency"
@@ -1482,17 +1487,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Penta Regency"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1599,6 +1599,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"UrbanCentro"
@@ -1606,17 +1611,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Urban Centro"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1723,6 +1723,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MagicVibe"
@@ -1730,17 +1735,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Magic Vibe"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1847,6 +1847,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"VibratoValley"
@@ -1854,17 +1859,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Vibrato Valley"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1971,6 +1971,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"FacilitatedLearning"
@@ -1978,17 +1983,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Facilitated Learning"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2095,6 +2095,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"LeadersThink"
@@ -2102,17 +2107,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Leaders Think"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2219,6 +2219,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Greenoflex"
@@ -2226,17 +2231,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Greenoflex"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2343,6 +2343,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"NoDiggity"
@@ -2350,17 +2355,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"No Diggity"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2467,6 +2467,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"HarmonyStudio"
@@ -2474,17 +2479,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Harmony Studio"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2591,6 +2591,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"DangyPots"
@@ -2598,17 +2603,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Dangy Pots"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2715,6 +2715,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"TheBatcave"
@@ -2722,17 +2727,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"The Batcave"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2839,6 +2839,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MerrilWillow"
@@ -2846,17 +2851,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Merril Willow"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2963,6 +2963,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"OptionsChamber"
@@ -2970,17 +2975,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Options Chamber"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -3087,6 +3087,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"CrucialConference"
@@ -3094,17 +3099,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"moderator"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onicon"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Crucial Conference"
                         }],
                  "type":"tilelayer",
                  "visible":true,
