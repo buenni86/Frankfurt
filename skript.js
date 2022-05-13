@@ -78,6 +78,13 @@ WA.room.onLeaveZone(zoneIntro, () => {
 WA.room.onEnterZone(zoneEVS, () => {
     currentPopup = WA.ui.openPopup("popUpEVS", evsMsg, [
         {
+            label: "Schließen",
+            callback: (popup => {
+                isCoWebSiteOpened = false;
+                closePopUp();
+            })
+        },
+        {
             label: "📧 Team EVS 📧",
 			className:"primary",
 			callback: (popup => {
