@@ -1553,7 +1553,7 @@
                 {
                  "height":12.296875,
                  "id":9,
-                 "name":"Bahnhof",
+                 "name":"Frankfurt",
                  "properties":[
                         {
                          "name":"font-family",
@@ -1565,15 +1565,15 @@
                     {
                      "color":"#ffffff",
                      "fontfamily":"Press Start 2P",
-                     "pixelsize":8,
-                     "text":"Bahnhof",
+                     "pixelsize":7,
+                     "text":"Frankfurt",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":56.53125,
-                 "x":1061.81384868421,
-                 "y":1156.63366776316
+                 "width":65.53125,
+                 "x":1056.81384868421,
+                 "y":1158.13366776316
                 }],
          "opacity":1,
          "type":"objectgroup",

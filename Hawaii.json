@@ -6282,13 +6282,13 @@
                     {
                      "fontfamily":"Press Start 2P",
                      "pixelsize":8,
-                     "text":"\u2193 Bahnhof \u2193",
+                     "text":"\u2193 Frankfurt \u2193",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":96.03125,
-                 "x":232.234375,
+                 "width":107.364583333333,
+                 "x":226.901041666667,
                  "y":1076.6015625
                 }],
          "opacity":1,
