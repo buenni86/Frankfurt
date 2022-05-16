@@ -3693,7 +3693,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":".\/frankfurt#special_area\/entry-bahnhof"
+                                 "value":".\/frankfurt#special_area\/exits\/entry-bahnhof"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
