@@ -1,4 +1,4 @@
-import { } from "https://unpkg.com/@workadventure/scripting-api-extra@^1";
+import { } from "@workadventure/scripting-api-extra";
 
 var currentPopup = undefined;
 var isCoWebSiteOpened =  false;
@@ -52,7 +52,7 @@ export function openPopupWithWebsiteYesNo(popUpName, msg, websiteUrl) {
 
 export function closePopupWithWebsite() {
     closePopUp();
-    
+
     if (isCoWebSiteOpened) {
         WA.nav.closeCoWebSite();
         isCoWebSiteOpened = false;
