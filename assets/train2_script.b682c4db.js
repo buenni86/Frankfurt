@@ -1,0 +1,1 @@
+import"./mustache.aa283466.js";import{s as n,r as t,g as s,o as i,c as p,u as g,p as m,h as c,a}from"./vars.be9f9cdc.js";WA.onInit(async()=>{const e=await WA.room.website.get("sign2a"),r=await WA.room.website.get("sign2b"),o=new Map([[e,a],[r,a]]);n(o),t(o),WA.room.onEnterZone(s,()=>{i(c,m,g)}),WA.room.onLeaveZone(s,()=>{p()})});
