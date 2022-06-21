@@ -1,4 +1,4 @@
-import { } from "https://unpkg.com/@workadventure/scripting-api-extra@^1";
+import { } from "@workadventure/scripting-api-extra";
 import {track1Map, setTrackContent, refreshSigns } from "./sign_script.js";
 import {openPopupWithWebsiteYesNo, closePopupWithWebsite } from "./popUp_script.js";
 import * as vars from "./vars.js";
