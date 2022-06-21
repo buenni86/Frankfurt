@@ -1,4 +1,4 @@
-import { } from "@workadventure/scripting-api-extra";
+import { } from "https://unpkg.com/@workadventure/scripting-api-extra@^1";
 
 var currentPopup = undefined;
 var isCoWebSiteOpened =  false;
@@ -92,7 +92,7 @@ WA.room.onEnterZone(zoneEVS, () => {
                 isCoWebSiteOpened = true;
                 closePopUp();
             })
-        }]);
+        }]);    
 })
 
 WA.room.onLeaveZone(zoneEVS, () => {
@@ -158,10 +158,10 @@ WA.room.onEnterZone(zoneTutorial2, () => {
         }
     ]);
 })
-
+ 
 WA.room.onLeaveZone(zoneTutorial, () =>{
     closePopUp();
-
+ 
     if (isCoWebSiteOpened) {
         WA.nav.closeCoWebSite();
         isCoWebSiteOpened = false;
@@ -170,7 +170,7 @@ WA.room.onLeaveZone(zoneTutorial, () =>{
 
 WA.room.onLeaveZone(zoneTutorial1, () =>{
     closePopUp();
-
+ 
     if (isCoWebSiteOpened) {
         WA.nav.closeCoWebSite();
         isCoWebSiteOpened = false;
@@ -179,7 +179,7 @@ WA.room.onLeaveZone(zoneTutorial1, () =>{
 
 WA.room.onLeaveZone(zoneTutorial2, () =>{
     closePopUp();
-
+ 
     if (isCoWebSiteOpened) {
         WA.nav.closeCoWebSite();
         isCoWebSiteOpened = false;
@@ -193,7 +193,7 @@ WA.room.onEnterZone(zonePong, () => {
             callback: (popup => {
                 closePopUp();
             })
-        }]);
+        }]);    
 })
 
 WA.room.onLeaveZone(zonePong, () => {
@@ -229,7 +229,7 @@ WA.room.onEnterZone(zoneGuide2, () => {
             })
         }]);
 })
-
+ 
 WA.room.onLeaveZone(zoneGuide, () =>{
     closePopUp();
 })

@@ -1,4 +1,4 @@
-import { } from "@workadventure/scripting-api-extra";
+import { } from "https://unpkg.com/@workadventure/scripting-api-extra@^1";
 
 var currentPopup = undefined;
 var isCoWebSiteOpened =  false;
@@ -41,8 +41,8 @@ WA.room.onLeaveZone(zoneNeedHelp, () =>{
 
 WA.room.onEnterZone(zoneFeedback, () => {
    currentPopup =  WA.ui.openPopup("feedbackPopup","Möchtest du ein Feedback geben?",[
-
-
+		
+            
         {
             label: 'Nein',
             className: 'secondary',

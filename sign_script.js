@@ -1,4 +1,4 @@
-import { } from "@workadventure/scripting-api-extra";
+import { } from "https://unpkg.com/@workadventure/scripting-api-extra@^1";
 
 export const track1Map = new Map ([
     ["TrackNo", "Track+1"]
