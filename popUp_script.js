@@ -52,7 +52,7 @@ export function openPopupWithWebsiteYesNo(popUpName, msg, websiteUrl) {
 
 export function closePopupWithWebsite() {
     closePopUp();
-    
+
     if (isCoWebSiteOpened) {
         WA.nav.closeCoWebSite();
         isCoWebSiteOpened = false;

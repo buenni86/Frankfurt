@@ -41,8 +41,8 @@ WA.room.onLeaveZone(zoneNeedHelp, () =>{
 
 WA.room.onEnterZone(zoneFeedback, () => {
    currentPopup =  WA.ui.openPopup("feedbackPopup","Möchtest du ein Feedback geben?",[
-		
-            
+
+
         {
             label: 'Nein',
             className: 'secondary',
