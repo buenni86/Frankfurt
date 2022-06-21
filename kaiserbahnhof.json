@@ -1666,7 +1666,7 @@
          "value":"skript.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.5",
+ "tiledversion":"1.8.6",
  "tileheight":32,
  "tilesets":[
         {
@@ -1729,11 +1729,11 @@
          "columns":12,
          "firstgid":8475,
          "image":"src\/Tilesets\/tileset2.png",
-         "imageheight":340,
-         "imagewidth":408,
-         "margin":1,
+         "imageheight":320,
+         "imagewidth":384,
+         "margin":0,
          "name":"tileset2",
-         "spacing":2,
+         "spacing":0,
          "tilecount":120,
          "tileheight":32,
          "tiles":[

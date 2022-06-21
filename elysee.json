@@ -710,7 +710,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"audioLoop",
+                         "name":"playAudioLoop",
                          "type":"string",
                          "value":"src\/assets\/audio\/Elysee_mars_test.mp3"
                         }],
@@ -3358,7 +3358,7 @@
          "value":false
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.4",
+ "tiledversion":"1.8.6",
  "tileheight":32,
  "tilesets":[
         {
