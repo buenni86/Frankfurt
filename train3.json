@@ -1115,7 +1115,7 @@
         {
          "columns":70,
          "firstgid":1,
-         "image":"src\/Bahnhof\/dbs\/trains.png",
+         "image":"tilesets\/Bahnhof\/dbs\/trains.png",
          "imageheight":3200,
          "imagewidth":2240,
          "margin":0,
@@ -1128,7 +1128,7 @@
         {
          "columns":70,
          "firstgid":7001,
-         "image":"src\/Bahnhof\/dbs\/terrain.png",
+         "image":"tilesets\/Bahnhof\/dbs\/terrain.png",
          "imageheight":3200,
          "imagewidth":2240,
          "margin":0,
@@ -1141,7 +1141,7 @@
         {
          "columns":31,
          "firstgid":14001,
-         "image":"src\/Bahnhof\/dbs\/symbols.png",
+         "image":"tilesets\/Bahnhof\/dbs\/symbols.png",
          "imageheight":992,
          "imagewidth":992,
          "margin":0,
@@ -1164,7 +1164,7 @@
         {
          "columns":70,
          "firstgid":14962,
-         "image":"src\/Bahnhof\/dbs\/plants.png",
+         "image":"tilesets\/Bahnhof\/dbs\/plants.png",
          "imageheight":3200,
          "imagewidth":2240,
          "margin":0,
@@ -1177,7 +1177,7 @@
         {
          "columns":31,
          "firstgid":21962,
-         "image":"src\/Bahnhof\/dbs\/ffm-kaiserstr.png",
+         "image":"tilesets\/Bahnhof\/dbs\/ffm-kaiserstr.png",
          "imageheight":992,
          "imagewidth":992,
          "margin":0,
@@ -1190,7 +1190,7 @@
         {
          "columns":31,
          "firstgid":22923,
-         "image":"src\/Bahnhof\/dbs\/db_interior.png",
+         "image":"tilesets\/Bahnhof\/dbs\/db_interior.png",
          "imageheight":992,
          "imagewidth":992,
          "margin":0,
@@ -1203,7 +1203,7 @@
         {
          "columns":62,
          "firstgid":23884,
-         "image":"src\/Bahnhof\/dbs\/modded_Obj.png",
+         "image":"tilesets\/Bahnhof\/dbs\/modded_Obj.png",
          "imageheight":1984,
          "imagewidth":1984,
          "margin":0,

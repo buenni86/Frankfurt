@@ -12550,7 +12550,7 @@
         {
          "columns":70,
          "firstgid":1,
-         "image":"src\/Tilesets\/terrain.png",
+         "image":"tilesets\/Tilesets\/terrain.png",
          "imageheight":3200,
          "imagewidth":2240,
          "margin":0,
@@ -12563,7 +12563,7 @@
         {
          "columns":31,
          "firstgid":7001,
-         "image":"src\/Tilesets\/symbols.png",
+         "image":"tilesets\/Tilesets\/symbols.png",
          "imageheight":992,
          "imagewidth":992,
          "margin":0,
@@ -12586,7 +12586,7 @@
         {
          "columns":31,
          "firstgid":7962,
-         "image":"src\/Tilesets\/digitalSummitObj.png",
+         "image":"tilesets\/Tilesets\/digitalSummitObj.png",
          "imageheight":992,
          "imagewidth":992,
          "margin":0,
@@ -12724,7 +12724,7 @@
         {
          "columns":24,
          "firstgid":8923,
-         "image":"src\/Tilesets\/fantasy_summit.png",
+         "image":"tilesets\/Tilesets\/fantasy_summit.png",
          "imageheight":1440,
          "imagewidth":768,
          "margin":0,
@@ -12737,7 +12737,7 @@
         {
          "columns":31,
          "firstgid":10003,
-         "image":"src\/Tilesets\/modded_Obj.png",
+         "image":"tilesets\/Tilesets\/modded_Obj.png",
          "imageheight":992,
          "imagewidth":992,
          "margin":0,
@@ -12750,7 +12750,7 @@
         {
          "columns":16,
          "firstgid":10964,
-         "image":"src\/Tilesets\/decorations-medieval.png",
+         "image":"tilesets\/Tilesets\/decorations-medieval.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -12763,7 +12763,7 @@
         {
          "columns":32,
          "firstgid":11988,
-         "image":"src\/Tilesets\/LPC-submissions-outside.png",
+         "image":"tilesets\/Tilesets\/LPC-submissions-outside.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -12776,7 +12776,7 @@
         {
          "columns":32,
          "firstgid":13012,
-         "image":"src\/Tilesets\/LPC-objects-plants-fish-submissions-outside.png",
+         "image":"tilesets\/Tilesets\/LPC-objects-plants-fish-submissions-outside.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -12789,7 +12789,7 @@
         {
          "columns":32,
          "firstgid":14036,
-         "image":"src\/Tilesets\/LPC-terrains-subimissions-outside.png",
+         "image":"tilesets\/Tilesets\/LPC-terrains-subimissions-outside.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -12802,7 +12802,7 @@
         {
          "columns":31,
          "firstgid":15060,
-         "image":"src\/Tilesets\/db_interior.png",
+         "image":"tilesets\/Tilesets\/db_interior.png",
          "imageheight":992,
          "imagewidth":992,
          "margin":0,
@@ -12815,7 +12815,7 @@
         {
          "columns":31,
          "firstgid":16021,
-         "image":"src\/Tilesets\/bars (3).png",
+         "image":"tilesets\/Tilesets\/bars (3).png",
          "imageheight":992,
          "imagewidth":992,
          "margin":0,
@@ -12828,7 +12828,7 @@
         {
          "columns":33,
          "firstgid":16982,
-         "image":"src\/Tilesets\/lighteffects.png",
+         "image":"tilesets\/Tilesets\/lighteffects.png",
          "imageheight":896,
          "imagewidth":1056,
          "margin":0,
@@ -14306,7 +14306,7 @@
         {
          "columns":20,
          "firstgid":17906,
-         "image":"src\/Tilesets\/tiki_bar_stuff.png",
+         "image":"tilesets\/Tilesets\/tiki_bar_stuff.png",
          "imageheight":768,
          "imagewidth":640,
          "margin":0,
@@ -14319,7 +14319,7 @@
         {
          "columns":16,
          "firstgid":18386,
-         "image":"src\/Tilesets\/upholstery.png",
+         "image":"tilesets\/Tilesets\/upholstery.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -14332,7 +14332,7 @@
         {
          "columns":16,
          "firstgid":18898,
-         "image":"src\/Tilesets\/house_inside.png",
+         "image":"tilesets\/Tilesets\/house_inside.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -14345,7 +14345,7 @@
         {
          "columns":20,
          "firstgid":19122,
-         "image":"src\/Tilesets\/NPCs.png",
+         "image":"tilesets\/Tilesets\/NPCs.png",
          "imageheight":768,
          "imagewidth":640,
          "margin":0,
@@ -14379,7 +14379,7 @@
         {
          "columns":31,
          "firstgid":19602,
-         "image":"src\/Tilesets\/items.png",
+         "image":"tilesets\/Tilesets\/items.png",
          "imageheight":992,
          "imagewidth":992,
          "margin":0,
@@ -14801,7 +14801,7 @@
         {
          "columns":18,
          "firstgid":20563,
-         "image":"src\/assets\/LimeZu_24_User_Interface_32x32_edited.png",
+         "image":"tilesets\/assets\/LimeZu_24_User_Interface_32x32_edited.png",
          "imageheight":448,
          "imagewidth":576,
          "margin":0,
@@ -14814,7 +14814,7 @@
         {
          "columns":10,
          "firstgid":20815,
-         "image":"src\/Tilesets\/db-tileset.png",
+         "image":"tilesets\/Tilesets\/db-tileset.png",
          "imageheight":480,
          "imagewidth":320,
          "margin":0,
@@ -14827,7 +14827,7 @@
         {
          "columns":13,
          "firstgid":20965,
-         "image":"src\/assets\/WA_User_Interface.png",
+         "image":"tilesets\/assets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
