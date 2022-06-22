@@ -1,10 +1,10 @@
 import { bootstrapExtra } from "@workadventure/scripting-api-extra";
 
-await WA.onInit(async () => {
-    await bootstrapExtra().then(() => {
-        console.log('Scripting API Extra ready');
-    }).catch(e => console.error(e));
+bootstrapExtra().then(() => {
+    console.log('Scripting API Extra ready');
+}).catch(e => console.error(e));
 
+WA.onInit(async () => {
     var currentPopup = undefined;
     var isCoWebSiteOpened = false;
     var urlTutorial = "https://db-planet.deutschebahn.com/pages/telefonie/apps/content/workadventure-erste-schritte";
