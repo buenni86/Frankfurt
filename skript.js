@@ -1,4 +1,10 @@
-import { } from "@workadventure/scripting-api-extra";
+import { bootstrapExtra } from "@workadventure/scripting-api-extra";
+
+WA.onInit(() => {
+    bootstrapExtra().then(() => {
+        console.log('Scripting API Extra ready');
+    }).catch(e => console.error(e));
+});
 
 var currentPopup = undefined;
 var isCoWebSiteOpened =  false;
