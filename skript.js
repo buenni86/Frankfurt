@@ -1,6 +1,6 @@
 import { bootstrapExtra } from "@workadventure/scripting-api-extra";
 
-WA.onInit(async () => {
+await WA.onInit(async () => {
     await bootstrapExtra().then(() => {
         console.log('Scripting API Extra ready');
     }).catch(e => console.error(e));
