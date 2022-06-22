@@ -1,9 +1,13 @@
-import { } from "@workadventure/scripting-api-extra";
+import { bootstrapExtra } from "@workadventure/scripting-api-extra";
 import {track4Map, setTrackContent, refreshSigns } from "./sign_script.js";
 import {openPopupWithWebsiteYesNo, closePopupWithWebsite } from "./popUp_script.js";
 import * as vars from "./vars.js";
 
 WA.onInit(async () => {
+    bootstrapExtra().then(() => {
+        console.log('Scripting API Extra ready');
+    }).catch(e => console.error(e));
+
     const sign4a = await WA.room.website.get("sign4a");
     const sign4b = await WA.room.website.get("sign4b");
 

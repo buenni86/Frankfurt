@@ -1,5 +1,3 @@
-import { } from "@workadventure/scripting-api-extra";
-
 export const track1Map = new Map ([
     ["TrackNo", "Track+1"]
 ]);

@@ -1,5 +1,3 @@
-import { } from "@workadventure/scripting-api-extra";
-
 var currentPopup = undefined;
 var isCoWebSiteOpened =  false;
 
