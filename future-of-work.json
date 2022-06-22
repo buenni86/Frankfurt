@@ -679,7 +679,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"src\/assets\/Special_Zones.png",
+         "image":"tilesets\/assets\/Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -708,7 +708,7 @@
         {
          "columns":16,
          "firstgid":13,
-         "image":"src\/assets\/future\/Celiana-interiors-1.png",
+         "image":"tilesets\/assets\/future\/Celiana-interiors-1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -740,7 +740,7 @@
         {
          "columns":8,
          "firstgid":269,
-         "image":"src\/assets\/future\/Celiana-grounds-walls-sqaure.png",
+         "image":"tilesets\/assets\/future\/Celiana-grounds-walls-sqaure.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
@@ -753,7 +753,7 @@
         {
          "columns":40,
          "firstgid":397,
-         "image":"src\/assets\/Deco abcf 1.png",
+         "image":"tilesets\/assets\/Deco abcf 1.png",
          "imageheight":1504,
          "imagewidth":1280,
          "margin":0,
@@ -766,7 +766,7 @@
         {
          "columns":108,
          "firstgid":2277,
-         "image":"src\/assets\/future\/planet animation 1 576-576.png",
+         "image":"tilesets\/assets\/future\/planet animation 1 576-576.png",
          "imageheight":3456,
          "imagewidth":3456,
          "margin":0,
@@ -82985,7 +82985,7 @@
         {
          "columns":108,
          "firstgid":13941,
-         "image":"src\/assets\/future\/planet animation 2 384-384.png",
+         "image":"tilesets\/assets\/future\/planet animation 2 384-384.png",
          "imageheight":3456,
          "imagewidth":3456,
          "margin":0,
@@ -130377,7 +130377,7 @@
         {
          "columns":16,
          "firstgid":25605,
-         "image":"src\/assets\/future\/Blue Nebula 1 - 512x512.png",
+         "image":"tilesets\/assets\/future\/Blue Nebula 1 - 512x512.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -130390,7 +130390,7 @@
         {
          "columns":12,
          "firstgid":25861,
-         "image":"src\/assets\/future\/CelestialObjects.png",
+         "image":"tilesets\/assets\/future\/CelestialObjects.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -130403,7 +130403,7 @@
         {
          "columns":32,
          "firstgid":25957,
-         "image":"src\/assets\/future\/12_nebula_spritesheet.png",
+         "image":"tilesets\/assets\/future\/12_nebula_spritesheet.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -134593,7 +134593,7 @@
         {
          "columns":16,
          "firstgid":26981,
-         "image":"src\/assets\/Pixanna_Celianna_Interiors_3.png",
+         "image":"tilesets\/assets\/Pixanna_Celianna_Interiors_3.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -134606,7 +134606,7 @@
         {
          "columns":13,
          "firstgid":27237,
-         "image":"src\/assets\/WA_User_Interface.png",
+         "image":"tilesets\/assets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
@@ -134619,7 +134619,7 @@
         {
          "columns":5,
          "firstgid":27510,
-         "image":"src\/assets\/arrows.png",
+         "image":"tilesets\/assets\/arrows.png",
          "imageheight":128,
          "imagewidth":160,
          "margin":0,

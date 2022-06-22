@@ -719,7 +719,7 @@
         {
          "columns":32,
          "firstgid":1,
-         "image":"src\/Tilesets\/LPC-terrains-subimissions-outside.png",
+         "image":"tilesets\/Tilesets\/LPC-terrains-subimissions-outside.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -841,7 +841,7 @@
         {
          "columns":16,
          "firstgid":1025,
-         "image":"src\/Tilesets\/mountain_landscape.png",
+         "image":"tilesets\/Tilesets\/mountain_landscape.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1053,7 +1053,7 @@
         {
          "columns":12,
          "firstgid":1281,
-         "image":"src\/Tilesets\/cave_stuff.png",
+         "image":"tilesets\/Tilesets\/cave_stuff.png",
          "imageheight":320,
          "imagewidth":384,
          "margin":0,
@@ -1066,7 +1066,7 @@
         {
          "columns":16,
          "firstgid":1401,
-         "image":"src\/Tilesets\/plants.png",
+         "image":"tilesets\/Tilesets\/plants.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,

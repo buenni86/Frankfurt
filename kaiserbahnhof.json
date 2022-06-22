@@ -74,7 +74,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -147,7 +147,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -220,17 +220,17 @@
                  "name":"jitsiConfig",
                  "type":"string",
                  "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false }"
-                }, 
+                },
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
                  "value":"{ \"SHOW_JITSI_WATERMARK\": \"false\", \"DISABLE_VIDEO_BACKGROUND\": \"true\" }"
-                }, 
+                },
                 {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"turmzimmer"
-                }, 
+                },
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
@@ -241,7 +241,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -314,22 +314,22 @@
                  "name":"jitsiConfig",
                  "type":"string",
                  "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false }"
-                }, 
+                },
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
                  "value":"{ \"SHOW_JITSI_WATERMARK\": \"false\", \"DISABLE_VIDEO_BACKGROUND\": \"true\" }"
-                }, 
+                },
                 {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"flur"
-                }, 
+                },
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
                  "value":"moderator"
-                }, 
+                },
                 {
                  "name":"jitsiTrigger",
                  "type":"string",
@@ -340,7 +340,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -419,7 +419,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -498,7 +498,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -571,17 +571,17 @@
                  "name":"jitsiConfig",
                  "type":"string",
                  "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
-                }, 
+                },
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
                  "value":"{ \"SHOW_JITSI_WATERMARK\": \"false\", \"DISABLE_VIDEO_BACKGROUND\": \"true\" }"
-                }, 
+                },
                 {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"glasbox3"
-                }, 
+                },
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
@@ -592,7 +592,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -665,17 +665,17 @@
                  "name":"jitsiConfig",
                  "type":"string",
                  "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
-                }, 
+                },
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
                  "value":"{ \"SHOW_JITSI_WATERMARK\": \"false\", \"DISABLE_VIDEO_BACKGROUND\": \"true\" }"
-                }, 
+                },
                 {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"glasbox2"
-                }, 
+                },
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
@@ -686,7 +686,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -759,17 +759,17 @@
                  "name":"jitsiConfig",
                  "type":"string",
                  "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
-                }, 
+                },
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
                  "value":"{ \"SHOW_JITSI_WATERMARK\": \"false\", \"DISABLE_VIDEO_BACKGROUND\": \"true\" }"
-                }, 
+                },
                 {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"glasbox1"
-                }, 
+                },
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
@@ -780,7 +780,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485,
             8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485, 8485,
@@ -853,7 +853,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -926,7 +926,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -999,7 +999,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1072,7 +1072,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7146, 7147, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7164, 7165, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1145,7 +1145,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1218,7 +1218,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1297,7 +1297,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1370,7 +1370,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "draworder":"topdown",
          "id":2,
@@ -1386,7 +1386,7 @@
                  "width":200,
                  "x":1705.33333333333,
                  "y":70.67
-                }, 
+                },
                 {
                  "height":11.296875,
                  "id":4,
@@ -1416,7 +1416,7 @@
          "visible":true,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[8531, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 0, 0, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8541, 8532,
             8527, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8964, 0, 0, 8964, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8527,
@@ -1489,7 +1489,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1562,7 +1562,7 @@
          "width":72,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1644,22 +1644,22 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"Credits: DB Systel \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
-        }, 
+        },
         {
          "name":"mapDescription",
          "type":"string",
          "value":"DB WorkAdventure - Kaiserbahnhof"
-        }, 
+        },
         {
          "name":"mapImage",
          "type":"string",
          "value":"kaiserbahnhof.png"
-        }, 
+        },
         {
          "name":"mapName",
          "type":"string",
          "value":"Kaiserbahnhof"
-        }, 
+        },
         {
          "name":"script",
          "type":"string",
@@ -1672,7 +1672,7 @@
         {
          "columns":10,
          "firstgid":1,
-         "image":"src\/Tilesets\/db-tileset.png",
+         "image":"tilesets\/Tilesets\/db-tileset.png",
          "imageheight":480,
          "imagewidth":320,
          "margin":0,
@@ -1682,11 +1682,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":18,
          "firstgid":151,
-         "image":"src\/Tilesets\/modern_interiors.png",
+         "image":"tilesets\/Tilesets\/modern_interiors.png",
          "imageheight":14368,
          "imagewidth":600,
          "margin":0,
@@ -1696,11 +1696,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":11,
          "firstgid":8233,
-         "image":"src\/Tilesets\/tileset1.png",
+         "image":"tilesets\/Tilesets\/tileset1.png",
          "imageheight":352,
          "imagewidth":352,
          "margin":0,
@@ -1710,11 +1710,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":11,
          "firstgid":8354,
-         "image":"src\/Tilesets\/tileset1-repositioning.png",
+         "image":"tilesets\/Tilesets\/tileset1-repositioning.png",
          "imageheight":374,
          "imagewidth":374,
          "margin":1,
@@ -1724,11 +1724,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":12,
          "firstgid":8475,
-         "image":"src\/Tilesets\/tileset2.png",
+         "image":"tilesets\/Tilesets\/tileset2.png",
          "imageheight":320,
          "imagewidth":384,
          "margin":0,
@@ -1745,7 +1745,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":21,
                  "properties":[
@@ -1754,7 +1754,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":22,
                  "properties":[
@@ -1763,7 +1763,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":36,
                  "properties":[
@@ -1772,7 +1772,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":37,
                  "properties":[
@@ -1781,7 +1781,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":38,
                  "properties":[
@@ -1790,7 +1790,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":39,
                  "properties":[
@@ -1799,7 +1799,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":45,
                  "properties":[
@@ -1808,7 +1808,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":48,
                  "properties":[
@@ -1817,7 +1817,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":49,
                  "properties":[
@@ -1826,7 +1826,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":50,
                  "properties":[
@@ -1835,7 +1835,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":51,
                  "properties":[
@@ -1844,7 +1844,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":52,
                  "properties":[
@@ -1853,7 +1853,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":53,
                  "properties":[
@@ -1862,7 +1862,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":54,
                  "properties":[
@@ -1871,7 +1871,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":55,
                  "properties":[
@@ -1880,7 +1880,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":56,
                  "properties":[
@@ -1889,7 +1889,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":57,
                  "properties":[
@@ -1898,7 +1898,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":60,
                  "properties":[
@@ -1907,7 +1907,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":61,
                  "properties":[
@@ -1916,7 +1916,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":62,
                  "properties":[
@@ -1925,7 +1925,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":63,
                  "properties":[
@@ -1934,7 +1934,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":64,
                  "properties":[
@@ -1943,7 +1943,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":65,
                  "properties":[
@@ -1952,7 +1952,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":66,
                  "properties":[
@@ -1961,7 +1961,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":67,
                  "properties":[
@@ -1970,7 +1970,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":68,
                  "properties":[
@@ -1979,7 +1979,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":69,
                  "properties":[
@@ -1988,7 +1988,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":72,
                  "properties":[
@@ -1997,7 +1997,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":73,
                  "properties":[
@@ -2006,7 +2006,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":80,
                  "properties":[
@@ -2015,7 +2015,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":84,
                  "properties":[
@@ -2024,7 +2024,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":93,
                  "properties":[
@@ -2036,11 +2036,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":10,
          "firstgid":8595,
-         "image":"src\/Tilesets\/tileset3.2.png",
+         "image":"tilesets\/Tilesets\/tileset3.2.png",
          "imageheight":340,
          "imagewidth":340,
          "margin":1,
@@ -2057,7 +2057,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":24,
                  "properties":[
@@ -2066,7 +2066,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":33,
                  "properties":[
@@ -2075,7 +2075,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":34,
                  "properties":[
@@ -2087,11 +2087,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":8,
          "firstgid":8695,
-         "image":"src\/Tilesets\/floortileset.png",
+         "image":"tilesets\/Tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -2101,11 +2101,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":3,
          "firstgid":8759,
-         "image":"src\/Bueromoebel\/Boden.png",
+         "image":"tilesets\/Bueromoebel\/Boden.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -2115,11 +2115,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":8768,
-         "image":"src\/Bueromoebel\/Glasbox.png",
+         "image":"tilesets\/Bueromoebel\/Glasbox.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -2136,7 +2136,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":1,
                  "properties":[
@@ -2148,11 +2148,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":8770,
-         "image":"src\/Bueromoebel\/Laminat.png",
+         "image":"tilesets\/Bueromoebel\/Laminat.png",
          "imageheight":96,
          "imagewidth":32,
          "margin":0,
@@ -2162,11 +2162,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":8,
          "firstgid":8773,
-         "image":"src\/Bueromoebel\/Treppe.png",
+         "image":"tilesets\/Bueromoebel\/Treppe.png",
          "imageheight":64,
          "imagewidth":256,
          "margin":0,
@@ -2176,11 +2176,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":8789,
-         "image":"src\/Bueromoebel\/Glastile.png",
+         "image":"tilesets\/Bueromoebel\/Glastile.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -2190,11 +2190,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":8790,
-         "image":"src\/Bueromoebel\/Bahngleis.png",
+         "image":"tilesets\/Bueromoebel\/Bahngleis.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -2204,11 +2204,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":2,
          "firstgid":8792,
-         "image":"src\/Bueromoebel\/Aufzug.png",
+         "image":"tilesets\/Bueromoebel\/Aufzug.png",
          "imageheight":161,
          "imagewidth":64,
          "margin":0,
@@ -2225,7 +2225,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":5,
                  "properties":[
@@ -2234,7 +2234,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":6,
                  "properties":[
@@ -2243,7 +2243,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":7,
                  "properties":[
@@ -2252,7 +2252,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":8,
                  "properties":[
@@ -2261,7 +2261,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":9,
                  "properties":[
@@ -2273,11 +2273,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":8802,
-         "image":"src\/assets\/Pflanze1.png",
+         "image":"tilesets\/assets\/Pflanze1.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -2297,11 +2297,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":36,
          "firstgid":8804,
-         "image":"src\/assets\/Zug_3.png",
+         "image":"tilesets\/assets\/Zug_3.png",
          "imageheight":96,
          "imagewidth":1153,
          "margin":0,
@@ -2318,7 +2318,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":1,
                  "properties":[
@@ -2327,7 +2327,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":2,
                  "properties":[
@@ -2336,7 +2336,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":3,
                  "properties":[
@@ -2345,7 +2345,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":4,
                  "properties":[
@@ -2354,7 +2354,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":5,
                  "properties":[
@@ -2363,7 +2363,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":6,
                  "properties":[
@@ -2372,7 +2372,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":7,
                  "properties":[
@@ -2381,7 +2381,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":8,
                  "properties":[
@@ -2390,7 +2390,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":9,
                  "properties":[
@@ -2399,7 +2399,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":10,
                  "properties":[
@@ -2408,7 +2408,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":11,
                  "properties":[
@@ -2417,7 +2417,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":12,
                  "properties":[
@@ -2426,7 +2426,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":13,
                  "properties":[
@@ -2435,7 +2435,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":14,
                  "properties":[
@@ -2444,7 +2444,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":15,
                  "properties":[
@@ -2453,7 +2453,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":16,
                  "properties":[
@@ -2462,7 +2462,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":17,
                  "properties":[
@@ -2471,7 +2471,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":18,
                  "properties":[
@@ -2480,7 +2480,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":19,
                  "properties":[
@@ -2489,7 +2489,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":20,
                  "properties":[
@@ -2498,7 +2498,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":21,
                  "properties":[
@@ -2507,7 +2507,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":22,
                  "properties":[
@@ -2516,7 +2516,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":23,
                  "properties":[
@@ -2525,7 +2525,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":24,
                  "properties":[
@@ -2534,7 +2534,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":25,
                  "properties":[
@@ -2543,7 +2543,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":26,
                  "properties":[
@@ -2552,7 +2552,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":27,
                  "properties":[
@@ -2561,7 +2561,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":28,
                  "properties":[
@@ -2570,7 +2570,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":29,
                  "properties":[
@@ -2579,7 +2579,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":30,
                  "properties":[
@@ -2588,7 +2588,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":31,
                  "properties":[
@@ -2597,7 +2597,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":32,
                  "properties":[
@@ -2606,7 +2606,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":33,
                  "properties":[
@@ -2615,7 +2615,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":34,
                  "properties":[
@@ -2624,7 +2624,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":35,
                  "properties":[
@@ -2633,7 +2633,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":37,
                  "properties":[
@@ -2642,7 +2642,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":38,
                  "properties":[
@@ -2651,7 +2651,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":39,
                  "properties":[
@@ -2660,7 +2660,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":40,
                  "properties":[
@@ -2669,7 +2669,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":41,
                  "properties":[
@@ -2678,7 +2678,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":42,
                  "properties":[
@@ -2687,7 +2687,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":43,
                  "properties":[
@@ -2696,7 +2696,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":44,
                  "properties":[
@@ -2705,7 +2705,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":45,
                  "properties":[
@@ -2714,7 +2714,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":46,
                  "properties":[
@@ -2723,7 +2723,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":47,
                  "properties":[
@@ -2732,7 +2732,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":48,
                  "properties":[
@@ -2741,7 +2741,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":49,
                  "properties":[
@@ -2750,7 +2750,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":50,
                  "properties":[
@@ -2759,7 +2759,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":51,
                  "properties":[
@@ -2768,7 +2768,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":53,
                  "properties":[
@@ -2777,7 +2777,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":55,
                  "properties":[
@@ -2786,7 +2786,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":56,
                  "properties":[
@@ -2795,7 +2795,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":57,
                  "properties":[
@@ -2804,7 +2804,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":58,
                  "properties":[
@@ -2813,7 +2813,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":59,
                  "properties":[
@@ -2822,7 +2822,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":60,
                  "properties":[
@@ -2831,7 +2831,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":61,
                  "properties":[
@@ -2840,7 +2840,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":62,
                  "properties":[
@@ -2849,7 +2849,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":63,
                  "properties":[
@@ -2858,7 +2858,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":64,
                  "properties":[
@@ -2867,7 +2867,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":65,
                  "properties":[
@@ -2876,7 +2876,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":66,
                  "properties":[
@@ -2885,7 +2885,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":67,
                  "properties":[
@@ -2894,7 +2894,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":68,
                  "properties":[
@@ -2903,7 +2903,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":69,
                  "properties":[
@@ -2912,7 +2912,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":70,
                  "properties":[
@@ -2921,7 +2921,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":73,
                  "properties":[
@@ -2930,7 +2930,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":74,
                  "properties":[
@@ -2939,7 +2939,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":75,
                  "properties":[
@@ -2948,7 +2948,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":76,
                  "properties":[
@@ -2958,7 +2958,7 @@
                          "value":true
                         }]
                 },
-            
+
                 {
                  "id":77,
                  "properties":[
@@ -2967,7 +2967,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":78,
                  "properties":[
@@ -2976,7 +2976,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":79,
                  "properties":[
@@ -2985,7 +2985,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":80,
                  "properties":[
@@ -2994,7 +2994,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":81,
                  "properties":[
@@ -3003,7 +3003,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":82,
                  "properties":[
@@ -3012,7 +3012,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":83,
                  "properties":[
@@ -3021,7 +3021,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":84,
                  "properties":[
@@ -3030,7 +3030,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":85,
                  "properties":[
@@ -3039,7 +3039,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":86,
                  "properties":[
@@ -3048,7 +3048,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":87,
                  "properties":[
@@ -3057,7 +3057,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":89,
                  "properties":[
@@ -3066,7 +3066,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":91,
                  "properties":[
@@ -3075,7 +3075,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":92,
                  "properties":[
@@ -3084,7 +3084,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":93,
                  "properties":[
@@ -3093,7 +3093,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":94,
                  "properties":[
@@ -3102,7 +3102,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":95,
                  "properties":[
@@ -3111,7 +3111,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":96,
                  "properties":[
@@ -3120,7 +3120,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":97,
                  "properties":[
@@ -3129,7 +3129,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":98,
                  "properties":[
@@ -3138,7 +3138,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":99,
                  "properties":[
@@ -3147,7 +3147,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":100,
                  "properties":[
@@ -3156,7 +3156,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":101,
                  "properties":[
@@ -3165,7 +3165,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":102,
                  "properties":[
@@ -3174,7 +3174,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":103,
                  "properties":[
@@ -3183,7 +3183,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":104,
                  "properties":[
@@ -3192,7 +3192,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":105,
                  "properties":[
@@ -3201,7 +3201,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":106,
                  "properties":[
@@ -3213,11 +3213,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":2,
          "firstgid":8912,
-         "image":"src\/Bueromoebel\/Glasbox-Cateringtisch.png",
+         "image":"tilesets\/Bueromoebel\/Glasbox-Cateringtisch.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -3234,7 +3234,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":1,
                  "properties":[
@@ -3243,7 +3243,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":2,
                  "properties":[
@@ -3252,7 +3252,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":3,
                  "properties":[
@@ -3264,11 +3264,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":2,
          "firstgid":8916,
-         "image":"src\/Bueromoebel\/Glasbox-St\u00fchle.png",
+         "image":"tilesets\/Bueromoebel\/Glasbox-St\u00fchle.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -3278,11 +3278,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":8920,
-         "image":"src\/assets\/Pflanze2.png",
+         "image":"tilesets\/assets\/Pflanze2.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -3302,11 +3302,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":8922,
-         "image":"src\/Bueromoebel\/Glasbox-Couch1.png",
+         "image":"tilesets\/Bueromoebel\/Glasbox-Couch1.png",
          "imageheight":224,
          "imagewidth":32,
          "margin":0,
@@ -3323,7 +3323,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":1,
                  "properties":[
@@ -3332,7 +3332,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":2,
                  "properties":[
@@ -3341,7 +3341,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":3,
                  "properties":[
@@ -3350,7 +3350,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":4,
                  "properties":[
@@ -3359,7 +3359,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":5,
                  "properties":[
@@ -3368,7 +3368,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":6,
                  "properties":[
@@ -3380,11 +3380,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":8929,
-         "image":"src\/Bueromoebel\/Glasbox-Couch2.png",
+         "image":"tilesets\/Bueromoebel\/Glasbox-Couch2.png",
          "imageheight":224,
          "imagewidth":32,
          "margin":0,
@@ -3401,7 +3401,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":1,
                  "properties":[
@@ -3410,7 +3410,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":2,
                  "properties":[
@@ -3419,7 +3419,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":3,
                  "properties":[
@@ -3428,7 +3428,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":4,
                  "properties":[
@@ -3437,7 +3437,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":5,
                  "properties":[
@@ -3446,7 +3446,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":6,
                  "properties":[
@@ -3458,11 +3458,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":6,
          "firstgid":8936,
-         "image":"src\/Bueromoebel\/B\u00fcro-Tisch.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-Tisch.png",
          "imageheight":96,
          "imagewidth":192,
          "margin":0,
@@ -3479,7 +3479,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":7,
                  "properties":[
@@ -3488,7 +3488,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":8,
                  "properties":[
@@ -3497,7 +3497,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":9,
                  "properties":[
@@ -3506,7 +3506,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":10,
                  "properties":[
@@ -3515,7 +3515,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":11,
                  "properties":[
@@ -3524,7 +3524,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":12,
                  "properties":[
@@ -3533,7 +3533,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":13,
                  "properties":[
@@ -3542,7 +3542,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":14,
                  "properties":[
@@ -3551,7 +3551,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":15,
                  "properties":[
@@ -3560,7 +3560,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":16,
                  "properties":[
@@ -3569,7 +3569,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":17,
                  "properties":[
@@ -3581,11 +3581,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":2,
          "firstgid":8954,
-         "image":"src\/assets\/Whiteboard.png",
+         "image":"tilesets\/assets\/Whiteboard.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -3595,11 +3595,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":8958,
-         "image":"src\/assets\/Pflanze3.png",
+         "image":"tilesets\/assets\/Pflanze3.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -3619,11 +3619,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":8960,
-         "image":"src\/assets\/Pflanze4.png",
+         "image":"tilesets\/assets\/Pflanze4.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -3643,11 +3643,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":4,
          "firstgid":8962,
-         "image":"src\/assets\/Notausgang.png",
+         "image":"tilesets\/assets\/Notausgang.png",
          "imageheight":32,
          "imagewidth":128,
          "margin":0,
@@ -3657,11 +3657,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":4,
          "firstgid":8966,
-         "image":"src\/Bueromoebel\/Glasbox-Tisch.png",
+         "image":"tilesets\/Bueromoebel\/Glasbox-Tisch.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -3678,7 +3678,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":1,
                  "properties":[
@@ -3687,7 +3687,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":2,
                  "properties":[
@@ -3696,7 +3696,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":3,
                  "properties":[
@@ -3705,7 +3705,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":4,
                  "properties":[
@@ -3714,7 +3714,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":5,
                  "properties":[
@@ -3723,7 +3723,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":8,
                  "properties":[
@@ -3732,7 +3732,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":9,
                  "properties":[
@@ -3741,7 +3741,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":12,
                  "properties":[
@@ -3750,7 +3750,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":13,
                  "properties":[
@@ -3759,7 +3759,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":14,
                  "properties":[
@@ -3768,7 +3768,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":15,
                  "properties":[
@@ -3780,11 +3780,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":2,
          "firstgid":8982,
-         "image":"src\/Bueromoebel\/B\u00fcro-Schrank-klein.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-Schrank-klein.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -3801,7 +3801,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":3,
                  "properties":[
@@ -3813,11 +3813,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":3,
          "firstgid":8986,
-         "image":"src\/Bueromoebel\/B\u00fcro-Monitor.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-Monitor.png",
          "imageheight":64,
          "imagewidth":96,
          "margin":0,
@@ -3827,11 +3827,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":3,
          "firstgid":8992,
-         "image":"src\/Bueromoebel\/B\u00fcro-St\u00fchle3.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-St\u00fchle3.png",
          "imageheight":64,
          "imagewidth":97,
          "margin":0,
@@ -3841,11 +3841,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":8998,
-         "image":"src\/Bueromoebel\/B\u00fcro-Tisch-rund.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-Tisch-rund.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -3865,11 +3865,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":2,
          "firstgid":8999,
-         "image":"src\/Bueromoebel\/B\u00fcro-St\u00fchle1.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-St\u00fchle1.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -3879,11 +3879,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":2,
          "firstgid":9003,
-         "image":"src\/Bueromoebel\/B\u00fcro-St\u00fchle2.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-St\u00fchle2.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -3893,11 +3893,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":9007,
-         "image":"src\/Bueromoebel\/B\u00fcro-Boden.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-Boden.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -3907,11 +3907,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":3,
          "firstgid":9008,
-         "image":"src\/Bueromoebel\/B\u00fcro-Glas-Holzwand.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-Glas-Holzwand.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -3928,7 +3928,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":1,
                  "properties":[
@@ -3937,7 +3937,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":2,
                  "properties":[
@@ -3946,7 +3946,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":3,
                  "properties":[
@@ -3955,7 +3955,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":4,
                  "properties":[
@@ -3964,7 +3964,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":5,
                  "properties":[
@@ -3973,7 +3973,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":6,
                  "properties":[
@@ -3982,7 +3982,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":7,
                  "properties":[
@@ -3991,7 +3991,7 @@
                          "type":"bool",
                          "value":false
                         }]
-                }, 
+                },
                 {
                  "id":8,
                  "properties":[
@@ -4003,11 +4003,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":9017,
-         "image":"src\/Bueromoebel\/B\u00fcro-Wandbild.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-Wandbild.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -4017,11 +4017,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":9018,
-         "image":"src\/Bueromoebel\/B\u00fcro-Whiteboard.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-Whiteboard.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -4031,11 +4031,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":3,
          "firstgid":9020,
-         "image":"src\/Bueromoebel\/B\u00fcro-Teppich-hell.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-Teppich-hell.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -4045,11 +4045,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":3,
          "firstgid":9029,
-         "image":"src\/Bueromoebel\/B\u00fcro-Teppich-hell-rund.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-Teppich-hell-rund.png",
          "imageheight":64,
          "imagewidth":96,
          "margin":0,
@@ -4059,11 +4059,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":9035,
-         "image":"src\/Bueromoebel\/B\u00fcro-Bildschirm.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-Bildschirm.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -4073,11 +4073,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":9037,
-         "image":"src\/Bueromoebel\/B\u00fcro-Sideboard.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-Sideboard.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -4094,7 +4094,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":1,
                  "properties":[
@@ -4106,11 +4106,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":9039,
-         "image":"src\/Bueromoebel\/B\u00fcro-Stehhocker.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-Stehhocker.png",
          "imageheight":33,
          "imagewidth":32,
          "margin":0,
@@ -4120,11 +4120,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":2,
          "firstgid":9040,
-         "image":"src\/Bueromoebel\/B\u00fcro-Stehtisch.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-Stehtisch.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -4141,7 +4141,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":3,
                  "properties":[
@@ -4153,11 +4153,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":4,
          "firstgid":9044,
-         "image":"src\/Bueromoebel\/B\u00fcro-Tisch-rechteckig.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-Tisch-rechteckig.png",
          "imageheight":96,
          "imagewidth":128,
          "margin":0,
@@ -4174,7 +4174,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":8,
                  "properties":[
@@ -4183,7 +4183,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":9,
                  "properties":[
@@ -4192,7 +4192,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":10,
                  "properties":[
@@ -4201,7 +4201,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":11,
                  "properties":[
@@ -4213,11 +4213,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":4,
          "firstgid":9056,
-         "image":"src\/Bueromoebel\/B\u00fcro-Tisch-rechteckig-Trennwand.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-Tisch-rechteckig-Trennwand.png",
          "imageheight":96,
          "imagewidth":128,
          "margin":0,
@@ -4234,7 +4234,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":8,
                  "properties":[
@@ -4243,7 +4243,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":9,
                  "properties":[
@@ -4252,7 +4252,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":10,
                  "properties":[
@@ -4261,7 +4261,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
                 {
                  "id":11,
                  "properties":[
@@ -4273,11 +4273,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":9068,
-         "image":"src\/Bueromoebel\/Feuerl\u00f6scher.png",
+         "image":"tilesets\/Bueromoebel\/Feuerl\u00f6scher.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -4287,11 +4287,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":9070,
-         "image":"src\/Bueromoebel\/B\u00fcro-M\u00fclleimer.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-M\u00fclleimer.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -4301,11 +4301,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":9072,
-         "image":"src\/Bueromoebel\/B\u00fcro-HolzkistemitPflanze.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-HolzkistemitPflanze.png",
          "imageheight":96,
          "imagewidth":32,
          "margin":0,
@@ -4325,11 +4325,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":9075,
-         "image":"src\/Bueromoebel\/B\u00fcro-Boden-heller.png",
+         "image":"tilesets\/Bueromoebel\/B\u00fcro-Boden-heller.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -4339,11 +4339,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":2,
          "firstgid":9076,
-         "image":"src\/Bueromoebel\/Glasbox-T\u00fcr.png",
+         "image":"tilesets\/Bueromoebel\/Glasbox-T\u00fcr.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -4353,11 +4353,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":1,
          "firstgid":9080,
-         "image":"src\/Bueromoebel\/Gleishalle-Bildschirm.png",
+         "image":"tilesets\/Bueromoebel\/Gleishalle-Bildschirm.png",
          "imageheight":96,
          "imagewidth":32,
          "margin":0,
@@ -4367,11 +4367,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":2,
          "firstgid":9083,
-         "image":"src\/Bueromoebel\/Glasbox-St\u00fchle2.png",
+         "image":"tilesets\/Bueromoebel\/Glasbox-St\u00fchle2.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -4381,11 +4381,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
-        }, 
+        },
         {
          "columns":31,
          "firstgid":9087,
-         "image":"src\/Tilesets\/items.png",
+         "image":"tilesets\/Tilesets\/items.png",
          "imageheight":992,
          "imagewidth":992,
          "margin":0,
@@ -4399,243 +4399,243 @@
                         {
                          "duration":200,
                          "tileid":434
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":437
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":440
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":527
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":530
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":533
                         }],
                  "id":434
-                }, 
+                },
                 {
                  "animation":[
                         {
                          "duration":200,
                          "tileid":435
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":438
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":441
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":528
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":531
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":534
                         }],
                  "id":435
-                }, 
+                },
                 {
                  "animation":[
                         {
                          "duration":200,
                          "tileid":436
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":439
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":442
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":529
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":532
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":535
                         }],
                  "id":436
-                }, 
+                },
                 {
                  "animation":[
                         {
                          "duration":200,
                          "tileid":465
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":468
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":471
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":558
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":561
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":564
                         }],
                  "id":465
-                }, 
+                },
                 {
                  "animation":[
                         {
                          "duration":200,
                          "tileid":466
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":469
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":559
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":562
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":565
                         }],
                  "id":466
-                }, 
+                },
                 {
                  "animation":[
                         {
                          "duration":200,
                          "tileid":467
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":470
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":473
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":560
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":563
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":566
                         }],
                  "id":467
-                }, 
+                },
                 {
                  "animation":[
                         {
                          "duration":200,
                          "tileid":496
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":499
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":502
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":589
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":592
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":595
                         }],
                  "id":496
-                }, 
+                },
                 {
                  "animation":[
                         {
                          "duration":200,
                          "tileid":497
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":500
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":503
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":590
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":593
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":596
                         }],
                  "id":497
-                }, 
+                },
                 {
                  "animation":[
                         {
                          "duration":200,
                          "tileid":498
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":501
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":504
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":591
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":594
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":597
@@ -4643,11 +4643,11 @@
                  "id":498
                 }],
          "tilewidth":32
-        }, 
+        },
         {
          "columns":31,
          "firstgid":10048,
-         "image":"src\/Tilesets\/modded_Obj.png",
+         "image":"tilesets\/Tilesets\/modded_Obj.png",
          "imageheight":992,
          "imagewidth":992,
          "margin":0,

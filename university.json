@@ -134,7 +134,7 @@
          "width":67,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -273,7 +273,7 @@
          "width":67,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -412,7 +412,7 @@
          "width":67,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -551,7 +551,7 @@
          "width":67,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -690,7 +690,7 @@
          "width":67,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0,
@@ -823,7 +823,7 @@
          "width":67,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -962,7 +962,7 @@
          "width":67,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "id":79,
          "layers":[
@@ -1098,17 +1098,17 @@
                          "name":"jitsiConfig",
                          "type":"string",
                          "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"SteveJobs"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"moderator"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
@@ -1119,7 +1119,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1252,17 +1252,17 @@
                          "name":"jitsiConfig",
                          "type":"string",
                          "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"TheEarth"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"moderator"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
@@ -1273,7 +1273,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1406,17 +1406,17 @@
                          "name":"jitsiConfig",
                          "type":"string",
                          "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"RidgeWater"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"moderator"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
@@ -1427,7 +1427,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1560,17 +1560,17 @@
                          "name":"jitsiConfig",
                          "type":"string",
                          "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"SoulStation"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"moderator"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
@@ -1581,7 +1581,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1714,17 +1714,17 @@
                          "name":"jitsiConfig",
                          "type":"string",
                          "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EngageEstate"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"moderator"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
@@ -1735,7 +1735,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1868,17 +1868,17 @@
                          "name":"jitsiConfig",
                          "type":"string",
                          "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Ronaldo"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"moderator"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
@@ -1889,7 +1889,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -2022,17 +2022,17 @@
                          "name":"jitsiConfig",
                          "type":"string",
                          "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"DeathStar"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"moderator"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
@@ -2043,7 +2043,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -2176,17 +2176,17 @@
                          "name":"jitsiConfig",
                          "type":"string",
                          "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Larry"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"moderator"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
@@ -2197,7 +2197,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -2330,17 +2330,17 @@
                          "name":"jitsiConfig",
                          "type":"string",
                          "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"InteractiveWayfinding"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"moderator"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
@@ -2351,7 +2351,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -2484,17 +2484,17 @@
                          "name":"jitsiConfig",
                          "type":"string",
                          "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"TraditionalApproach"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"moderator"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
@@ -2505,7 +2505,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -2638,17 +2638,17 @@
                          "name":"jitsiConfig",
                          "type":"string",
                          "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MichaelJordan"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"moderator"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
@@ -2659,7 +2659,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -2792,17 +2792,17 @@
                          "name":"jitsiConfig",
                          "type":"string",
                          "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Ultrapad"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"moderator"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
@@ -2813,7 +2813,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -2946,17 +2946,17 @@
                          "name":"jitsiConfig",
                          "type":"string",
                          "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"ElFieston"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"moderator"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
@@ -2967,7 +2967,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -3100,17 +3100,17 @@
                          "name":"jitsiConfig",
                          "type":"string",
                          "value":"{ \"startWithVideoMuted\": true, \"startWithAudioMuted\": false, \"liveStreamingEnabled\": false, \"fileRecordingsEnabled\": false, \"etherpad_base\": null, \"toolbarButtons\": [ \"camera\",\"chat\",\"closedcaptions\",\"desktop\",\"download\",\"embedmeeting\",\"etherpad\",\"feedback\",\"filmstrip\",\"fullscreen\",\"hangup\",\"help\",\"livestreaming\",\"microphone\",\"mute-everyone\",\"mute-video-everyone\",\"participants-pane\",\"profile\",\"raisehand\",\"recording\",\"security\",\"select-background\",\"settings\",\"shareaudio\",\"sharedvideo\",\"shortcuts\",\"stats\",\"tileview\",\"toggle-camera\",\"videoquality\",\"__end\"] }"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"TheSimpsons"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"moderator"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
@@ -3128,7 +3128,7 @@
          "visible":true,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "id":120,
          "layers":[
@@ -3264,12 +3264,12 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"{{{ SoulStation }}}"
-                        }, 
+                        },
                         {
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        }, 
+                        },
                         {
                          "name":"openWebsiteTrigger",
                          "type":"string",
@@ -3280,7 +3280,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -3413,12 +3413,12 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"{{{ EngageEstate }}}"
-                        }, 
+                        },
                         {
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        }, 
+                        },
                         {
                          "name":"openWebsiteTrigger",
                          "type":"string",
@@ -3429,7 +3429,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -3562,12 +3562,12 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"{{{ Ronaldo }}}"
-                        }, 
+                        },
                         {
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        }, 
+                        },
                         {
                          "name":"openWebsiteTrigger",
                          "type":"string",
@@ -3578,7 +3578,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -3711,12 +3711,12 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"{{{ DeathStar }}}"
-                        }, 
+                        },
                         {
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        }, 
+                        },
                         {
                          "name":"openWebsiteTrigger",
                          "type":"string",
@@ -3727,7 +3727,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -3860,12 +3860,12 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"{{{ Larry }}}"
-                        }, 
+                        },
                         {
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        }, 
+                        },
                         {
                          "name":"openWebsiteTrigger",
                          "type":"string",
@@ -3876,7 +3876,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -4009,12 +4009,12 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"{{{ InteractiveWayfinding }}}"
-                        }, 
+                        },
                         {
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        }, 
+                        },
                         {
                          "name":"openWebsiteTrigger",
                          "type":"string",
@@ -4025,7 +4025,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -4158,12 +4158,12 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"{{{ TraditionalApproach }}}"
-                        }, 
+                        },
                         {
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        }, 
+                        },
                         {
                          "name":"openWebsiteTrigger",
                          "type":"string",
@@ -4174,7 +4174,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -4307,12 +4307,12 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"{{{ MichaelJordan }}}"
-                        }, 
+                        },
                         {
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        }, 
+                        },
                         {
                          "name":"openWebsiteTrigger",
                          "type":"string",
@@ -4323,7 +4323,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -4456,12 +4456,12 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"{{{ Ultrapad }}}"
-                        }, 
+                        },
                         {
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        }, 
+                        },
                         {
                          "name":"openWebsiteTrigger",
                          "type":"string",
@@ -4472,7 +4472,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -4605,12 +4605,12 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"{{{ ElFieston }}}"
-                        }, 
+                        },
                         {
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        }, 
+                        },
                         {
                          "name":"openWebsiteTrigger",
                          "type":"string",
@@ -4621,7 +4621,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -4754,12 +4754,12 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"{{{ TheSimpsons }}}"
-                        }, 
+                        },
                         {
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        }, 
+                        },
                         {
                          "name":"openWebsiteTrigger",
                          "type":"string",
@@ -4777,7 +4777,7 @@
          "visible":true,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "id":47,
          "layers":[
@@ -4913,7 +4913,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -5046,7 +5046,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[18102, 18102, 18102, 18102, 18102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18102, 18102, 18102, 18102, 18379,
                     18102, 18102, 18102, 18102, 18102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18102, 18102, 18102, 18102, 18379,
@@ -5179,7 +5179,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -5319,7 +5319,7 @@
          "visible":true,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "id":54,
          "layers":[
@@ -5455,7 +5455,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -5588,7 +5588,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 727, 728, 0, 0, 0, 727, 728, 0, 0, 0, 0, 727, 728, 0, 727, 728, 0, 0, 9670, 9671, 9672, 0, 0, 9670, 9671, 9672, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -5721,7 +5721,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17168, 17169, 0, 0, 0, 2867, 2868, 2861, 2862, 2863, 3020, 0, 0, 0, 0, 0, 0,
@@ -5854,7 +5854,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2619, 0, 0, 0, 0, 0, 0,
@@ -5987,7 +5987,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -6127,7 +6127,7 @@
          "visible":true,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "id":61,
          "layers":[
@@ -6263,7 +6263,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7807, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8477, 0, 1338, 1339, 0, 0, 0, 0, 0, 0, 8477, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -6396,7 +6396,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16804, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -6529,7 +6529,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16782, 16753, 16754, 0, 0, 16922, 16923, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -6662,7 +6662,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -6795,7 +6795,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -6935,7 +6935,7 @@
          "visible":true,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -7074,7 +7074,7 @@
          "width":67,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -7213,7 +7213,7 @@
          "width":67,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -7346,22 +7346,22 @@
                  "name":"openConfig",
                  "type":"string",
                  "value":"exitEastURL"
-                }, 
+                },
                 {
                  "name":"openConfigAdminTag",
                  "type":"string",
                  "value":"admin"
-                }, 
+                },
                 {
                  "name":"openConfigTrigger",
                  "type":"string",
                  "value":"onaction"
-                }, 
+                },
                 {
                  "name":"openConfigTriggerMessage",
                  "type":"string",
                  "value":"Configure the East exit URL"
-                }, 
+                },
                 {
                  "name":"zone",
                  "type":"string",
@@ -7372,7 +7372,7 @@
          "width":67,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -7505,22 +7505,22 @@
                  "name":"openConfig",
                  "type":"string",
                  "value":"exitWestURL"
-                }, 
+                },
                 {
                  "name":"openConfigAdminTag",
                  "type":"string",
                  "value":"admin"
-                }, 
+                },
                 {
                  "name":"openConfigTrigger",
                  "type":"string",
                  "value":"onaction"
-                }, 
+                },
                 {
                  "name":"openConfigTriggerMessage",
                  "type":"string",
                  "value":"Configure the West exit URL"
-                }, 
+                },
                 {
                  "name":"zone",
                  "type":"string",
@@ -7531,7 +7531,7 @@
          "width":67,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "draworder":"topdown",
          "id":2,
@@ -7555,7 +7555,7 @@
                  "width":77.0313,
                  "x":130.48435,
                  "y":3299.6849
-                }, 
+                },
                 {
                  "height":10.6302,
                  "id":25,
@@ -7579,7 +7579,7 @@
          "visible":true,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "draworder":"topdown",
          "id":112,
@@ -7595,22 +7595,22 @@
                          "name":"default",
                          "type":"string",
                          "value":".\/frankfurt#special_area\/exits\/entry-university"
-                        }, 
+                        },
                         {
                          "name":"description",
                          "type":"string",
                          "value":"A room URL starts with \"\/@\/\".\ne.g.: \"\/@\/my-organization\/my-world\/my-room\""
-                        }, 
+                        },
                         {
                          "name":"label",
                          "type":"string",
                          "value":"West exit URL"
-                        }, 
+                        },
                         {
                          "name":"persist",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"writableBy",
                          "type":"string",
@@ -7622,7 +7622,7 @@
                  "width":0,
                  "x":42.5,
                  "y":3274
-                }, 
+                },
                 {
                  "height":0,
                  "id":12,
@@ -7633,22 +7633,22 @@
                          "name":"default",
                          "type":"string",
                          "value":".\/frankfurt#special_area\/exits\/entry-university"
-                        }, 
+                        },
                         {
                          "name":"description",
                          "type":"string",
                          "value":"A room URL starts with \"\/@\/\".\ne.g.: \"\/@\/my-organization\/my-world\/my-room\""
-                        }, 
+                        },
                         {
                          "name":"label",
                          "type":"string",
                          "value":"East exit URL"
-                        }, 
+                        },
                         {
                          "name":"persist",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"writableBy",
                          "type":"string",
@@ -7660,7 +7660,7 @@
                  "width":0,
                  "x":2080,
                  "y":1612
-                }, 
+                },
                 {
                  "height":0,
                  "id":13,
@@ -7671,17 +7671,17 @@
                          "name":"default",
                          "type":"string",
                          "value":""
-                        }, 
+                        },
                         {
                          "name":"label",
                          "type":"string",
                          "value":"Configure website in the room Ultrapad"
-                        }, 
+                        },
                         {
                          "name":"persist",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"writableBy",
                          "type":"string",
@@ -7693,7 +7693,7 @@
                  "width":0,
                  "x":1146,
                  "y":254
-                }, 
+                },
                 {
                  "height":0,
                  "id":14,
@@ -7704,17 +7704,17 @@
                          "name":"default",
                          "type":"string",
                          "value":""
-                        }, 
+                        },
                         {
                          "name":"label",
                          "type":"string",
                          "value":"Configure website in the room TheSimpsons"
-                        }, 
+                        },
                         {
                          "name":"persist",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"writableBy",
                          "type":"string",
@@ -7726,7 +7726,7 @@
                  "width":0,
                  "x":1022,
                  "y":563
-                }, 
+                },
                 {
                  "height":0,
                  "id":15,
@@ -7737,17 +7737,17 @@
                          "name":"default",
                          "type":"string",
                          "value":""
-                        }, 
+                        },
                         {
                          "name":"label",
                          "type":"string",
                          "value":"Configure website in the room Larry"
-                        }, 
+                        },
                         {
                          "name":"persist",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"writableBy",
                          "type":"string",
@@ -7759,7 +7759,7 @@
                  "width":0,
                  "x":1582,
                  "y":169
-                }, 
+                },
                 {
                  "height":0,
                  "id":16,
@@ -7770,17 +7770,17 @@
                          "name":"default",
                          "type":"string",
                          "value":""
-                        }, 
+                        },
                         {
                          "name":"label",
                          "type":"string",
                          "value":"Configure website in the room MichaelJordan"
-                        }, 
+                        },
                         {
                          "name":"persist",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"writableBy",
                          "type":"string",
@@ -7792,7 +7792,7 @@
                  "width":0,
                  "x":1270,
                  "y":1054
-                }, 
+                },
                 {
                  "height":0,
                  "id":17,
@@ -7803,17 +7803,17 @@
                          "name":"default",
                          "type":"string",
                          "value":""
-                        }, 
+                        },
                         {
                          "name":"label",
                          "type":"string",
                          "value":"Configure website in the room ElFieston"
-                        }, 
+                        },
                         {
                          "name":"persist",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"writableBy",
                          "type":"string",
@@ -7825,7 +7825,7 @@
                  "width":0,
                  "x":1178,
                  "y":1379
-                }, 
+                },
                 {
                  "height":0,
                  "id":18,
@@ -7836,17 +7836,17 @@
                          "name":"default",
                          "type":"string",
                          "value":""
-                        }, 
+                        },
                         {
                          "name":"label",
                          "type":"string",
                          "value":"Configure website in the room DeathStar"
-                        }, 
+                        },
                         {
                          "name":"persist",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"writableBy",
                          "type":"string",
@@ -7858,7 +7858,7 @@
                  "width":0,
                  "x":1735,
                  "y":983
-                }, 
+                },
                 {
                  "height":0,
                  "id":19,
@@ -7869,17 +7869,17 @@
                          "name":"default",
                          "type":"string",
                          "value":""
-                        }, 
+                        },
                         {
                          "name":"label",
                          "type":"string",
                          "value":"Configure website in the room TraditionalApproach"
-                        }, 
+                        },
                         {
                          "name":"persist",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"writableBy",
                          "type":"string",
@@ -7891,7 +7891,7 @@
                  "width":0,
                  "x":1223,
                  "y":1849
-                }, 
+                },
                 {
                  "height":0,
                  "id":20,
@@ -7902,17 +7902,17 @@
                          "name":"default",
                          "type":"string",
                          "value":""
-                        }, 
+                        },
                         {
                          "name":"label",
                          "type":"string",
                          "value":"Configure website in the room InteractiveWayfinding"
-                        }, 
+                        },
                         {
                          "name":"persist",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"writableBy",
                          "type":"string",
@@ -7924,7 +7924,7 @@
                  "width":0,
                  "x":1170,
                  "y":2176
-                }, 
+                },
                 {
                  "height":0,
                  "id":21,
@@ -7935,17 +7935,17 @@
                          "name":"default",
                          "type":"string",
                          "value":""
-                        }, 
+                        },
                         {
                          "name":"label",
                          "type":"string",
                          "value":"Configure website in the room Ronaldo"
-                        }, 
+                        },
                         {
                          "name":"persist",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"writableBy",
                          "type":"string",
@@ -7957,7 +7957,7 @@
                  "width":0,
                  "x":1756,
                  "y":1815
-                }, 
+                },
                 {
                  "height":0,
                  "id":22,
@@ -7968,17 +7968,17 @@
                          "name":"default",
                          "type":"string",
                          "value":""
-                        }, 
+                        },
                         {
                          "name":"label",
                          "type":"string",
                          "value":"Configure website in the room EngageEstate"
-                        }, 
+                        },
                         {
                          "name":"persist",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"writableBy",
                          "type":"string",
@@ -7990,7 +7990,7 @@
                  "width":0,
                  "x":1598,
                  "y":2903
-                }, 
+                },
                 {
                  "height":0,
                  "id":23,
@@ -8001,17 +8001,17 @@
                          "name":"default",
                          "type":"string",
                          "value":""
-                        }, 
+                        },
                         {
                          "name":"label",
                          "type":"string",
                          "value":"Configure website in the room SoulStation"
-                        }, 
+                        },
                         {
                          "name":"persist",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"writableBy",
                          "type":"string",
@@ -8029,7 +8029,7 @@
          "visible":true,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "id":68,
          "layers":[
@@ -8165,7 +8165,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 711, 712, 0, 0, 0, 711, 712, 0, 0, 0, 0, 711, 712, 4125, 711, 712, 0, 0, 9654, 9655, 9656, 17152, 17153, 9654, 9655, 9656, 2851, 2852, 2845, 2846, 2847, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -8298,7 +8298,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4407, 4409, 4409, 4409, 4409, 4408, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16788, 0, 0, 0, 0, 0, 0, 0, 1322, 1323, 0, 4125, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 3005, 3006, 3007, 0, 0, 0, 0, 4423, 4425, 4425, 4425, 4425, 4424, 0, 0, 0, 0, 3005, 3006, 3007, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -8431,7 +8431,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16426, 16427, 16428, 16429, 16430, 16431, 16431, 16432, 16433, 16434, 16435, 16436, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16737, 16738, 0, 0, 16906, 16907, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -8564,7 +8564,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 18470, 18471, 18472, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18435, 18436, 18437, 18438,
                     18417, 18418, 18494, 18495, 18496, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18459, 18460, 18461, 18462,
@@ -8697,7 +8697,7 @@
                  "width":67,
                  "x":0,
                  "y":0
-                }, 
+                },
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -8846,32 +8846,32 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"CC-BY-SA 3.0 (https:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
-        }, 
+        },
         {
          "name":"mapDescription",
          "type":"string",
          "value":"Suitable for up to 100 users.\n\nWith great power comes great university. Or something like that.\nPay no attention to the dinosaurs, they don't bite."
-        }, 
+        },
         {
          "name":"mapImage",
          "type":"string",
          "value":"university.png"
-        }, 
+        },
         {
          "name":"mapLink",
          "type":"string",
          "value":"https:\/\/workadventure.github.io\/university\/map.json"
-        }, 
+        },
         {
          "name":"mapName",
          "type":"string",
          "value":"University"
-        }, 
+        },
         {
          "name":"script",
          "type":"string",
          "value":"skript.js"
-        }, 
+        },
         {
          "name":"tutorial",
          "type":"bool",
@@ -8884,7 +8884,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"src\/assets\/Special_Zones.png",
+         "image":"tilesets\/assets\/Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -8909,11 +8909,11 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
+        },
         {
          "columns":16,
          "firstgid":13,
-         "image":"src\/assets\/modern\/LimeZu_1_Generic_32x32.png",
+         "image":"tilesets\/assets\/modern\/LimeZu_1_Generic_32x32.png",
          "imageheight":1920,
          "imagewidth":512,
          "margin":0,
@@ -8928,11 +8928,11 @@
          "tilecount":960,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":16,
          "firstgid":973,
-         "image":"src\/assets\/LimeZu_2_LivingRoom_32x32.png",
+         "image":"tilesets\/assets\/LimeZu_2_LivingRoom_32x32.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -8947,11 +8947,11 @@
          "tilecount":720,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":16,
          "firstgid":1693,
-         "image":"src\/assets\/modern\/LimeZu_3_Bathroom_32x32.png",
+         "image":"tilesets\/assets\/modern\/LimeZu_3_Bathroom_32x32.png",
          "imageheight":1792,
          "imagewidth":512,
          "margin":0,
@@ -8966,11 +8966,11 @@
          "tilecount":896,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":16,
          "firstgid":2589,
-         "image":"src\/assets\/modern\/LimeZu_5_Classroom_and_library_32x32.png",
+         "image":"tilesets\/assets\/modern\/LimeZu_5_Classroom_and_library_32x32.png",
          "imageheight":1088,
          "imagewidth":512,
          "margin":0,
@@ -8985,11 +8985,11 @@
          "tilecount":544,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":16,
          "firstgid":3133,
-         "image":"src\/assets\/modern\/LimeZu_6_Music_and_sport_32x32.png",
+         "image":"tilesets\/assets\/modern\/LimeZu_6_Music_and_sport_32x32.png",
          "imageheight":928,
          "imagewidth":512,
          "margin":0,
@@ -9004,11 +9004,11 @@
          "tilecount":464,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":16,
          "firstgid":3597,
-         "image":"src\/assets\/modern\/LimeZu_12_Kitchen_32x32.png",
+         "image":"tilesets\/assets\/modern\/LimeZu_12_Kitchen_32x32.png",
          "imageheight":1568,
          "imagewidth":512,
          "margin":0,
@@ -9023,11 +9023,11 @@
          "tilecount":784,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":16,
          "firstgid":4381,
-         "image":"src\/assets\/modern\/LimeZu_13_Conference_Hall_32x32.png",
+         "image":"tilesets\/assets\/modern\/LimeZu_13_Conference_Hall_32x32.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -9042,11 +9042,11 @@
          "tilecount":192,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":16,
          "firstgid":4573,
-         "image":"src\/assets\/modern\/LimeZu_16_Grocery_store_32x32.png",
+         "image":"tilesets\/assets\/modern\/LimeZu_16_Grocery_store_32x32.png",
          "imageheight":2496,
          "imagewidth":512,
          "margin":0,
@@ -9061,11 +9061,11 @@
          "tilecount":1248,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":16,
          "firstgid":5821,
-         "image":"src\/assets\/modern\/LimeZu_14_Basement_32x32.png",
+         "image":"tilesets\/assets\/modern\/LimeZu_14_Basement_32x32.png",
          "imageheight":1600,
          "imagewidth":512,
          "margin":0,
@@ -9080,11 +9080,11 @@
          "tilecount":800,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":16,
          "firstgid":6621,
-         "image":"src\/assets\/modern\/LimeZu_17_Visibile_Upstairs_System_32x32.png",
+         "image":"tilesets\/assets\/modern\/LimeZu_17_Visibile_Upstairs_System_32x32.png",
          "imageheight":864,
          "imagewidth":512,
          "margin":0,
@@ -9099,11 +9099,11 @@
          "tilecount":432,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":16,
          "firstgid":7053,
-         "image":"src\/assets\/modern\/LimeZu_18_Jail_32x32.png",
+         "image":"tilesets\/assets\/modern\/LimeZu_18_Jail_32x32.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -9118,11 +9118,11 @@
          "tilecount":720,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":16,
          "firstgid":7773,
-         "image":"src\/assets\/modern\/LimeZu_19_Hospital_32x32.png",
+         "image":"tilesets\/assets\/modern\/LimeZu_19_Hospital_32x32.png",
          "imageheight":3520,
          "imagewidth":512,
          "margin":0,
@@ -9137,11 +9137,11 @@
          "tilecount":1760,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":16,
          "firstgid":9533,
-         "image":"src\/assets\/modern\/LimeZu_20_Japanese_interiors_32x32.png",
+         "image":"tilesets\/assets\/modern\/LimeZu_20_Japanese_interiors_32x32.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -9156,11 +9156,11 @@
          "tilecount":512,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":16,
          "firstgid":10045,
-         "image":"src\/assets\/modern\/LimeZu_22_Museum_32x32.png",
+         "image":"tilesets\/assets\/modern\/LimeZu_22_Museum_32x32.png",
          "imageheight":1152,
          "imagewidth":512,
          "margin":0,
@@ -9175,11 +9175,11 @@
          "tilecount":576,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":75,
          "firstgid":10621,
-         "image":"src\/assets\/modern\/LimeZu_23_Room_Builder_32x32.png",
+         "image":"tilesets\/assets\/modern\/LimeZu_23_Room_Builder_32x32.png",
          "imageheight":2144,
          "imagewidth":2400,
          "margin":0,
@@ -9204,11 +9204,11 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
+        },
         {
          "columns":22,
          "firstgid":15646,
-         "image":"src\/assets\/modern\/LimeZu_24_Office_32x32.png",
+         "image":"tilesets\/assets\/modern\/LimeZu_24_Office_32x32.png",
          "imageheight":768,
          "imagewidth":704,
          "margin":0,
@@ -9223,11 +9223,11 @@
          "tilecount":528,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":18,
          "firstgid":16174,
-         "image":"src\/assets\/modern\/LimeZu_24_User_Interface_32x32.png",
+         "image":"tilesets\/assets\/modern\/LimeZu_24_User_Interface_32x32.png",
          "imageheight":448,
          "imagewidth":576,
          "margin":0,
@@ -9247,175 +9247,175 @@
                         {
                          "duration":200,
                          "tileid":108
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":109
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":110
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":111
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":112
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":113
                         }],
                  "id":0
-                }, 
+                },
                 {
                  "animation":[
                         {
                          "duration":200,
                          "tileid":8
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":9
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":10
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":11
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":11
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":11
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":10
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":9
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":8
                         }],
                  "id":8
-                }, 
+                },
                 {
                  "animation":[
                         {
                          "duration":200,
                          "tileid":26
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":27
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":28
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":29
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":29
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":29
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":28
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":27
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":26
                         }],
                  "id":26
-                }, 
+                },
                 {
                  "animation":[
                         {
                          "duration":300,
                          "tileid":216
-                        }, 
+                        },
                         {
                          "duration":300,
                          "tileid":217
-                        }, 
+                        },
                         {
                          "duration":300,
                          "tileid":218
-                        }, 
+                        },
                         {
                          "duration":300,
                          "tileid":219
-                        }, 
+                        },
                         {
                          "duration":300,
                          "tileid":220
-                        }, 
+                        },
                         {
                          "duration":300,
                          "tileid":221
-                        }, 
+                        },
                         {
                          "duration":300,
                          "tileid":222
-                        }, 
+                        },
                         {
                          "duration":300,
                          "tileid":223
                         }],
                  "id":216
-                }, 
+                },
                 {
                  "animation":[
                         {
                          "duration":300,
                          "tileid":234
-                        }, 
+                        },
                         {
                          "duration":300,
                          "tileid":235
-                        }, 
+                        },
                         {
                          "duration":300,
                          "tileid":236
-                        }, 
+                        },
                         {
                          "duration":300,
                          "tileid":237
-                        }, 
+                        },
                         {
                          "duration":300,
                          "tileid":238
-                        }, 
+                        },
                         {
                          "duration":300,
                          "tileid":239
-                        }, 
+                        },
                         {
                          "duration":300,
                          "tileid":240
-                        }, 
+                        },
                         {
                          "duration":300,
                          "tileid":241
@@ -9423,11 +9423,11 @@
                  "id":234
                 }],
          "tilewidth":32
-        }, 
+        },
         {
          "columns":11,
          "firstgid":16426,
-         "image":"src\/assets\/modern\/Tv_Studio_Design_layer_2_32x32.png",
+         "image":"tilesets\/assets\/modern\/Tv_Studio_Design_layer_2_32x32.png",
          "imageheight":320,
          "imagewidth":352,
          "margin":0,
@@ -9442,11 +9442,11 @@
          "tilecount":110,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":16,
          "firstgid":16536,
-         "image":"src\/assets\/modern\/Modern_Office_Black_Shadow_32x32.png",
+         "image":"tilesets\/assets\/modern\/Modern_Office_Black_Shadow_32x32.png",
          "imageheight":1696,
          "imagewidth":512,
          "margin":0,
@@ -9461,11 +9461,11 @@
          "tilecount":848,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":8,
          "firstgid":17384,
-         "image":"src\/assets\/fantasy_1.png",
+         "image":"tilesets\/assets\/fantasy_1.png",
          "imageheight":2112,
          "imagewidth":256,
          "margin":0,
@@ -9480,11 +9480,11 @@
          "tilecount":528,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":21,
          "firstgid":17912,
-         "image":"src\/assets\/terrain.png",
+         "image":"tilesets\/assets\/terrain.png",
          "imageheight":736,
          "imagewidth":672,
          "margin":0,
@@ -9507,37 +9507,37 @@
                          "name":"",
                          "probability":1,
                          "tile":85
-                        }, 
+                        },
                         {
                          "color":"#00ff00",
                          "name":"",
                          "probability":1,
                          "tile":88
-                        }, 
+                        },
                         {
                          "color":"#0000ff",
                          "name":"",
                          "probability":1,
                          "tile":91
-                        }, 
+                        },
                         {
                          "color":"#ff7700",
                          "name":"",
                          "probability":1,
                          "tile":211
-                        }, 
+                        },
                         {
                          "color":"#00e9ff",
                          "name":"",
                          "probability":1,
                          "tile":214
-                        }, 
+                        },
                         {
                          "color":"#ff00d8",
                          "name":"",
                          "probability":1,
                          "tile":217
-                        }, 
+                        },
                         {
                          "color":"#ffff00",
                          "name":"",
@@ -9551,369 +9551,369 @@
                         {
                          "tileid":1,
                          "wangid":[0, 1, 0, 0, 0, 1, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":2,
                          "wangid":[0, 1, 0, 1, 0, 0, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":4,
                          "wangid":[0, 2, 0, 0, 0, 2, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":5,
                          "wangid":[0, 2, 0, 2, 0, 0, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":7,
                          "wangid":[0, 3, 0, 0, 0, 3, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":8,
                          "wangid":[0, 3, 0, 3, 0, 0, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":22,
                          "wangid":[0, 0, 0, 1, 0, 1, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":23,
                          "wangid":[0, 1, 0, 1, 0, 1, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":25,
                          "wangid":[0, 0, 0, 2, 0, 2, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":26,
                          "wangid":[0, 2, 0, 2, 0, 2, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":28,
                          "wangid":[0, 0, 0, 3, 0, 3, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":29,
                          "wangid":[0, 3, 0, 3, 0, 3, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":42,
                          "wangid":[0, 0, 0, 1, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":43,
                          "wangid":[0, 0, 0, 1, 0, 1, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":44,
                          "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":45,
                          "wangid":[0, 0, 0, 2, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":46,
                          "wangid":[0, 0, 0, 2, 0, 2, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":47,
                          "wangid":[0, 0, 0, 0, 0, 2, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":48,
                          "wangid":[0, 0, 0, 3, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":49,
                          "wangid":[0, 0, 0, 3, 0, 3, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":50,
                          "wangid":[0, 0, 0, 0, 0, 3, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":63,
                          "wangid":[0, 1, 0, 1, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":64,
                          "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":65,
                          "wangid":[0, 0, 0, 0, 0, 1, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":66,
                          "wangid":[0, 2, 0, 2, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":67,
                          "wangid":[0, 2, 0, 2, 0, 2, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":68,
                          "wangid":[0, 0, 0, 0, 0, 2, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":69,
                          "wangid":[0, 3, 0, 3, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":70,
                          "wangid":[0, 3, 0, 3, 0, 3, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":71,
                          "wangid":[0, 0, 0, 0, 0, 3, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":84,
                          "wangid":[0, 1, 0, 0, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":85,
                          "wangid":[0, 1, 0, 0, 0, 0, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":86,
                          "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":87,
                          "wangid":[0, 2, 0, 0, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":88,
                          "wangid":[0, 2, 0, 0, 0, 0, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":89,
                          "wangid":[0, 0, 0, 0, 0, 0, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":90,
                          "wangid":[0, 3, 0, 0, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":91,
                          "wangid":[0, 3, 0, 0, 0, 0, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":92,
                          "wangid":[0, 0, 0, 0, 0, 0, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":127,
                          "wangid":[0, 4, 0, 0, 0, 4, 0, 4]
-                        }, 
+                        },
                         {
                          "tileid":128,
                          "wangid":[0, 4, 0, 4, 0, 0, 0, 4]
-                        }, 
+                        },
                         {
                          "tileid":130,
                          "wangid":[0, 5, 0, 0, 0, 5, 0, 5]
-                        }, 
+                        },
                         {
                          "tileid":131,
                          "wangid":[0, 5, 0, 5, 0, 0, 0, 5]
-                        }, 
+                        },
                         {
                          "tileid":133,
                          "wangid":[0, 6, 0, 0, 0, 6, 0, 6]
-                        }, 
+                        },
                         {
                          "tileid":134,
                          "wangid":[0, 6, 0, 6, 0, 0, 0, 6]
-                        }, 
+                        },
                         {
                          "tileid":148,
                          "wangid":[0, 0, 0, 4, 0, 4, 0, 4]
-                        }, 
+                        },
                         {
                          "tileid":149,
                          "wangid":[0, 4, 0, 4, 0, 4, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":151,
                          "wangid":[0, 0, 0, 5, 0, 5, 0, 5]
-                        }, 
+                        },
                         {
                          "tileid":152,
                          "wangid":[0, 5, 0, 5, 0, 5, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":154,
                          "wangid":[0, 0, 0, 6, 0, 6, 0, 6]
-                        }, 
+                        },
                         {
                          "tileid":155,
                          "wangid":[0, 6, 0, 6, 0, 6, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":168,
                          "wangid":[0, 0, 0, 4, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":169,
                          "wangid":[0, 0, 0, 4, 0, 4, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":170,
                          "wangid":[0, 0, 0, 0, 0, 4, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":171,
                          "wangid":[0, 0, 0, 5, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":172,
                          "wangid":[0, 0, 0, 5, 0, 5, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":173,
                          "wangid":[0, 0, 0, 0, 0, 5, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":174,
                          "wangid":[0, 0, 0, 6, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":175,
                          "wangid":[0, 0, 0, 6, 0, 6, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":176,
                          "wangid":[0, 0, 0, 0, 0, 6, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":189,
                          "wangid":[0, 4, 0, 4, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":190,
                          "wangid":[0, 4, 0, 4, 0, 4, 0, 4]
-                        }, 
+                        },
                         {
                          "tileid":191,
                          "wangid":[0, 0, 0, 0, 0, 4, 0, 4]
-                        }, 
+                        },
                         {
                          "tileid":192,
                          "wangid":[0, 5, 0, 5, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":193,
                          "wangid":[0, 5, 0, 5, 0, 5, 0, 5]
-                        }, 
+                        },
                         {
                          "tileid":194,
                          "wangid":[0, 0, 0, 0, 0, 5, 0, 5]
-                        }, 
+                        },
                         {
                          "tileid":195,
                          "wangid":[0, 6, 0, 6, 0, 0, 0, 0]
                         },
-                    
+
                         {
                          "tileid":196,
                          "wangid":[0, 6, 0, 6, 0, 6, 0, 6]
-                        }, 
+                        },
                         {
                          "tileid":197,
                          "wangid":[0, 0, 0, 0, 0, 6, 0, 6]
-                        }, 
+                        },
                         {
                          "tileid":210,
                          "wangid":[0, 4, 0, 0, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":211,
                          "wangid":[0, 4, 0, 0, 0, 0, 0, 4]
-                        }, 
+                        },
                         {
                          "tileid":212,
                          "wangid":[0, 0, 0, 0, 0, 0, 0, 4]
-                        }, 
+                        },
                         {
                          "tileid":213,
                          "wangid":[0, 5, 0, 0, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":214,
                          "wangid":[0, 5, 0, 0, 0, 0, 0, 5]
-                        }, 
+                        },
                         {
                          "tileid":215,
                          "wangid":[0, 0, 0, 0, 0, 0, 0, 5]
-                        }, 
+                        },
                         {
                          "tileid":216,
                          "wangid":[0, 6, 0, 0, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":217,
                          "wangid":[0, 6, 0, 0, 0, 0, 0, 6]
-                        }, 
+                        },
                         {
                          "tileid":218,
                          "wangid":[0, 0, 0, 0, 0, 0, 0, 6]
-                        }, 
+                        },
                         {
                          "tileid":253,
                          "wangid":[0, 7, 0, 0, 0, 7, 0, 7]
-                        }, 
+                        },
                         {
                          "tileid":254,
                          "wangid":[0, 7, 0, 7, 0, 0, 0, 7]
-                        }, 
+                        },
                         {
                          "tileid":274,
                          "wangid":[0, 0, 0, 7, 0, 7, 0, 7]
-                        }, 
+                        },
                         {
                          "tileid":275,
                          "wangid":[0, 7, 0, 7, 0, 7, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":294,
                          "wangid":[0, 0, 0, 7, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":295,
                          "wangid":[0, 0, 0, 7, 0, 7, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":296,
                          "wangid":[0, 0, 0, 0, 0, 7, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":315,
                          "wangid":[0, 7, 0, 7, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":316,
                          "wangid":[0, 7, 0, 7, 0, 7, 0, 7]
-                        }, 
+                        },
                         {
                          "tileid":317,
                          "wangid":[0, 0, 0, 0, 0, 7, 0, 7]
-                        }, 
+                        },
                         {
                          "tileid":336,
                          "wangid":[0, 7, 0, 0, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":337,
                          "wangid":[0, 7, 0, 0, 0, 0, 0, 7]
-                        }, 
+                        },
                         {
                          "tileid":338,
                          "wangid":[0, 0, 0, 0, 0, 0, 0, 7]
                         }]
-                }, 
+                },
                 {
                  "colors":[
                         {
@@ -9921,13 +9921,13 @@
                          "name":"",
                          "probability":1,
                          "tile":103
-                        }, 
+                        },
                         {
                          "color":"#00ff00",
                          "name":"",
                          "probability":1,
                          "tile":340
-                        }, 
+                        },
                         {
                          "color":"#0000ff",
                          "name":"",
@@ -9941,160 +9941,160 @@
                         {
                          "tileid":19,
                          "wangid":[0, 1, 0, 0, 0, 1, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":20,
                          "wangid":[0, 1, 0, 1, 0, 0, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":40,
                          "wangid":[0, 0, 0, 1, 0, 1, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":41,
                          "wangid":[0, 1, 0, 1, 0, 1, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":60,
                          "wangid":[0, 0, 0, 1, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":61,
                          "wangid":[0, 0, 0, 1, 0, 1, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":62,
                          "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":81,
                          "wangid":[0, 1, 0, 1, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":82,
                          "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":83,
                          "wangid":[0, 0, 0, 0, 0, 1, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":102,
                          "wangid":[0, 1, 0, 0, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":103,
                          "wangid":[0, 1, 0, 0, 0, 0, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":104,
                          "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":256,
                          "wangid":[0, 2, 0, 0, 0, 2, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":257,
                          "wangid":[0, 2, 0, 2, 0, 0, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":259,
                          "wangid":[0, 0, 0, 3, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":260,
                          "wangid":[0, 0, 0, 0, 0, 3, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":277,
                          "wangid":[0, 0, 0, 2, 0, 2, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":278,
                          "wangid":[0, 2, 0, 2, 0, 2, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":280,
                          "wangid":[0, 3, 0, 0, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":281,
                          "wangid":[0, 0, 0, 0, 0, 0, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":297,
                          "wangid":[0, 0, 0, 2, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":298,
                          "wangid":[0, 0, 0, 2, 0, 2, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":299,
                          "wangid":[0, 0, 0, 0, 0, 2, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":300,
                          "wangid":[0, 3, 0, 0, 0, 3, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":301,
                          "wangid":[0, 3, 0, 0, 0, 0, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":302,
                          "wangid":[0, 3, 0, 3, 0, 0, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":318,
                          "wangid":[0, 2, 0, 2, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":319,
                          "wangid":[0, 2, 0, 2, 0, 2, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":320,
                          "wangid":[0, 0, 0, 0, 0, 2, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":321,
                          "wangid":[0, 0, 0, 0, 0, 3, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":322,
                          "wangid":[0, 3, 0, 3, 0, 3, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":323,
                          "wangid":[0, 3, 0, 3, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":339,
                          "wangid":[0, 2, 0, 0, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":340,
                          "wangid":[0, 2, 0, 0, 0, 0, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":341,
                          "wangid":[0, 0, 0, 0, 0, 0, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":342,
                          "wangid":[0, 0, 0, 3, 0, 3, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":343,
                          "wangid":[0, 0, 0, 3, 0, 3, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":344,
                          "wangid":[0, 3, 0, 3, 0, 3, 0, 0]
                         }]
-                }, 
+                },
                 {
                  "colors":[
                         {
@@ -10102,13 +10102,13 @@
                          "name":"",
                          "probability":1,
                          "tile":226
-                        }, 
+                        },
                         {
                          "color":"#00ff00",
                          "name":"",
                          "probability":1,
                          "tile":223
-                        }, 
+                        },
                         {
                          "color":"#0000ff",
                          "name":"",
@@ -10122,165 +10122,165 @@
                         {
                          "tileid":136,
                          "wangid":[0, 3, 0, 0, 0, 3, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":137,
                          "wangid":[0, 3, 0, 3, 0, 0, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":139,
                          "wangid":[0, 2, 0, 0, 0, 2, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":140,
                          "wangid":[0, 2, 0, 2, 0, 0, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":142,
                          "wangid":[0, 1, 0, 0, 0, 1, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":143,
                          "wangid":[0, 1, 0, 1, 0, 0, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":157,
                          "wangid":[0, 0, 0, 3, 0, 3, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":158,
                          "wangid":[0, 3, 0, 3, 0, 3, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":160,
                          "wangid":[0, 0, 0, 2, 0, 2, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":161,
                          "wangid":[0, 2, 0, 2, 0, 2, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":163,
                          "wangid":[0, 0, 0, 1, 0, 1, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":164,
                          "wangid":[0, 1, 0, 1, 0, 1, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":177,
                          "wangid":[0, 0, 0, 3, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":178,
                          "wangid":[0, 0, 0, 3, 0, 3, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":179,
                          "wangid":[0, 0, 0, 0, 0, 3, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":180,
                          "wangid":[0, 0, 0, 2, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":181,
                          "wangid":[0, 0, 0, 2, 0, 2, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":182,
                          "wangid":[0, 0, 0, 0, 0, 2, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":183,
                          "wangid":[0, 0, 0, 1, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":184,
                          "wangid":[0, 0, 0, 1, 0, 1, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":185,
                          "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":198,
                          "wangid":[0, 3, 0, 3, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":199,
                          "wangid":[0, 3, 0, 3, 0, 3, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":200,
                          "wangid":[0, 0, 0, 0, 0, 3, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":201,
                          "wangid":[0, 2, 0, 2, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":202,
                          "wangid":[0, 2, 0, 2, 0, 2, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":203,
                          "wangid":[0, 0, 0, 0, 0, 2, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":204,
                          "wangid":[0, 1, 0, 1, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":205,
                          "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":206,
                          "wangid":[0, 0, 0, 0, 0, 1, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":219,
                          "wangid":[0, 3, 0, 0, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":220,
                          "wangid":[0, 3, 0, 0, 0, 0, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":221,
                          "wangid":[0, 0, 0, 0, 0, 0, 0, 3]
-                        }, 
+                        },
                         {
                          "tileid":222,
                          "wangid":[0, 2, 0, 0, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":223,
                          "wangid":[0, 2, 0, 0, 0, 0, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":224,
                          "wangid":[0, 0, 0, 0, 0, 0, 0, 2]
-                        }, 
+                        },
                         {
                          "tileid":225,
                          "wangid":[0, 1, 0, 0, 0, 0, 0, 0]
-                        }, 
+                        },
                         {
                          "tileid":226,
                          "wangid":[0, 1, 0, 0, 0, 0, 0, 1]
-                        }, 
+                        },
                         {
                          "tileid":227,
                          "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
                         }]
                 }]
-        }, 
+        },
         {
          "columns":24,
          "firstgid":18395,
-         "image":"src\/assets\/Trees_and_flowers.png",
+         "image":"tilesets\/assets\/Trees_and_flowers.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -10295,11 +10295,11 @@
          "tilecount":576,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":18,
          "firstgid":18971,
-         "image":"src\/assets\/UI_32x32.png",
+         "image":"tilesets\/assets\/UI_32x32.png",
          "imageheight":448,
          "imagewidth":576,
          "margin":0,
@@ -10319,23 +10319,23 @@
                         {
                          "duration":200,
                          "tileid":108
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":109
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":110
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":111
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":112
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":113
@@ -10344,11 +10344,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
-        }, 
+        },
         {
          "columns":16,
          "firstgid":19223,
-         "image":"src\/assets\/modern\/22_Museum_32x32.png",
+         "image":"tilesets\/assets\/modern\/22_Museum_32x32.png",
          "imageheight":3904,
          "imagewidth":512,
          "margin":0,
@@ -10358,11 +10358,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
-        }, 
+        },
         {
          "columns":4,
          "firstgid":21175,
-         "image":"src\/animations\/animated_butterfly_3_32x32.png",
+         "image":"tilesets\/animations\/animated_butterfly_3_32x32.png",
          "imageheight":32,
          "imagewidth":128,
          "margin":0,
@@ -10382,15 +10382,15 @@
                         {
                          "duration":200,
                          "tileid":0
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":1
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":2
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":3
@@ -10399,11 +10399,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
-        }, 
+        },
         {
          "columns":4,
          "firstgid":21179,
-         "image":"src\/animations\/animated_butterfly_5_idle_32x32.png",
+         "image":"tilesets\/animations\/animated_butterfly_5_idle_32x32.png",
          "imageheight":32,
          "imagewidth":128,
          "margin":0,
@@ -10423,15 +10423,15 @@
                         {
                          "duration":200,
                          "tileid":0
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":1
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":2
-                        }, 
+                        },
                         {
                          "duration":200,
                          "tileid":3
@@ -10440,11 +10440,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
-        }, 
+        },
         {
          "columns":36,
          "firstgid":21183,
-         "image":"src\/animations\/animated_cat_32x32.png",
+         "image":"tilesets\/animations\/animated_cat_32x32.png",
          "imageheight":32,
          "imagewidth":1152,
          "margin":0,
@@ -10464,151 +10464,151 @@
                         {
                          "duration":250,
                          "tileid":0
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":3
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":6
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":9
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":12
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":15
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":18
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":21
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":24
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":27
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":30
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":33
                         }],
                  "id":0
-                }, 
+                },
                 {
                  "animation":[
                         {
                          "duration":250,
                          "tileid":1
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":4
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":7
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":10
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":13
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":16
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":19
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":22
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":25
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":28
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":31
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":34
                         }],
                  "id":1
-                }, 
+                },
                 {
                  "animation":[
                         {
                          "duration":250,
                          "tileid":2
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":5
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":8
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":11
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":14
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":17
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":20
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":23
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":26
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":29
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":32
-                        }, 
+                        },
                         {
                          "duration":250,
                          "tileid":35
@@ -10617,11 +10617,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
-        }, 
+        },
         {
          "columns":6,
          "firstgid":21219,
-         "image":"src\/animations\/animated_coffee_32x32.png",
+         "image":"tilesets\/animations\/animated_coffee_32x32.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -10641,51 +10641,51 @@
                         {
                          "duration":350,
                          "tileid":0
-                        }, 
+                        },
                         {
                          "duration":350,
                          "tileid":1
-                        }, 
+                        },
                         {
                          "duration":350,
                          "tileid":2
-                        }, 
+                        },
                         {
                          "duration":350,
                          "tileid":3
-                        }, 
+                        },
                         {
                          "duration":350,
                          "tileid":4
-                        }, 
+                        },
                         {
                          "duration":350,
                          "tileid":5
                         }],
                  "id":0
-                }, 
+                },
                 {
                  "animation":[
                         {
                          "duration":350,
                          "tileid":6
-                        }, 
+                        },
                         {
                          "duration":350,
                          "tileid":7
-                        }, 
+                        },
                         {
                          "duration":350,
                          "tileid":8
-                        }, 
+                        },
                         {
                          "duration":350,
                          "tileid":9
-                        }, 
+                        },
                         {
                          "duration":350,
                          "tileid":10
-                        }, 
+                        },
                         {
                          "duration":350,
                          "tileid":11
@@ -10694,11 +10694,11 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
-        }, 
+        },
         {
          "columns":8,
          "firstgid":21231,
-         "image":"src\/assets\/Celianna-grounds-walls-square.png",
+         "image":"tilesets\/assets\/Celianna-grounds-walls-square.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
@@ -10714,11 +10714,11 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
-        }, 
+        },
         {
          "columns":43,
          "firstgid":21359,
-         "image":"src\/assets\/vehicles.png",
+         "image":"tilesets\/assets\/vehicles.png",
          "imageheight":600,
          "imagewidth":1400,
          "margin":0,
@@ -10727,11 +10727,11 @@
          "tilecount":774,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":13,
          "firstgid":22133,
-         "image":"src\/assets\/WA_User_Interface.png",
+         "image":"tilesets\/assets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
@@ -10740,11 +10740,11 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
         {
          "columns":5,
          "firstgid":22406,
-         "image":"src\/assets\/arrows.png",
+         "image":"tilesets\/assets\/arrows.png",
          "imageheight":128,
          "imagewidth":160,
          "margin":0,
