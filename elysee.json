@@ -635,7 +635,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"public\/audio\/Elysee_piano_v1.mp3"
+                         "value":"audio\/Elysee_piano_v1.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -712,7 +712,7 @@
                         {
                          "name":"playAudioLoop",
                          "type":"string",
-                         "value":"public\/audio\/Elysee_mars_test.mp3"
+                         "value":"audio\/Elysee_mars_test.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -789,7 +789,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"public\/audio\/111491__soundathon__piano-improvb-1-2-2011-part1.ogg"
+                         "value":"audio\/111491__soundathon__piano-improvb-1-2-2011-part1.ogg"
                         }],
                  "type":"tilelayer",
                  "visible":true,
