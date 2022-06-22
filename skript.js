@@ -1,6 +1,7 @@
 import { bootstrapExtra } from "@workadventure/scripting-api-extra";
+import { } from "https://unpkg.com/@workadventure/scripting-api-extra@^1";
 
-await bootstrapExtra().then(() => {
+bootstrapExtra().then(() => {
     console.log('Scripting API Extra ready');
 }).catch(e => console.error(e));
 
