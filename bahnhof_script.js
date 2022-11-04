@@ -39,6 +39,15 @@ WA.room.onLeaveZone(zoneTutorial, () =>{
     }
 })
 
+const buttons = [
+    {
+      label: "Reset",
+      className: "error",
+      callback: () =>
+        (WA.state.votePos = WA.state.voteNeg = WA.state.voteNeut = 0)
+    }
+  ]
+
 WA.onInit().then(() => {
     console.log("Scripting API ready")
     console.log("Player tags: ", WA.player.tags)
@@ -69,6 +78,18 @@ WA.onInit().then(() => {
       console.log("voteNeut: ", WA.state.voteNeut)
       if (WA.state.voteNeut === 0) return
       WA.state.voteNeut--
+    })
+  
+    let voteResetPopup
+    WA.room.onEnterLayer("voteRes").subscribe(() => {
+      voteResetPopup = WA.ui.openPopup(
+        "resetPopup",
+        "Soll das Voting zurückgesetzt werden?",
+        buttons
+      )
+    })
+    WA.room.onLeaveLayer("voteRes").subscribe(() => {
+      voteResetPopup.close()
     })
   
       // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
