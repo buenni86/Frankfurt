@@ -1,54 +1,83 @@
 import { bootstrapExtra } from "@workadventure/scripting-api-extra";
-import {track1Map, track2Map, track3Map, track4Map, track5Map, track6Map, setTrackContent, refreshSigns } from "./sign_script.js";
-import {openPopupWithWebsiteYesNo, closePopupWithWebsite } from "./popUp_script.js";
-import {programMsg, urlProgram } from "./vars.js";
+//import { } from "https://unpkg.com/@workadventure/scripting-api-extra";
+//import {track1Map, track2Map, track3Map, track4Map, track5Map, track6Map, setTrackContent, refreshSigns } from "./sign_script.js";
+//import {openPopupWithWebsiteYesNo, closePopupWithWebsite } from "./popUp_script.js";
+//import {programMsg, urlProgram } from "./vars.js";
+console.log("Script started successfully")
 
-WA.onInit(async () => {
-    bootstrapExtra().then(() => {
-        console.log('Scripting API Extra ready');
-    }).catch(e => console.error(e));
+var currentPopup = undefined;
+var isCoWebSiteOpened =  false;
+var urlTutorial = "https://web.microsoftstream.com/embed/video/06f916c4-78cf-4b19-9295-01f639b016db?autoplay=true";
+var zoneTutorial = "tutorial";
 
 
-    /***********************************************
-     * Sign functions
-     ***********************************************/
-    const sign1 = await WA.room.website.get("sign1");
-    const sign2 = await WA.room.website.get("sign2");
-    const sign3 = await WA.room.website.get("sign3");
-    const sign4 = await WA.room.website.get("sign4");
-    const sign5 = await WA.room.website.get("sign5");
-    const sign6 = await WA.room.website.get("sign6");
-
-    const signToTrackMap = new Map ([
-        [sign1, track1Map],
-        [sign2, track2Map],
-        [sign3, track3Map],
-        [sign4, track4Map],
-        [sign5, track5Map],
-        [sign6, track6Map]
-    ]);
-
-    setTrackContent(signToTrackMap);
-    refreshSigns(signToTrackMap);
-
-    /***********************************************
-     * Program pop up functions
-     ***********************************************/
-
-    const zone2PopUpMap = new Map ([
-        ["program1", "popUpProgram1"],
-        ["program2", "popUpProgram2"],
-        ["program3", "popUpProgram3"],
-        ["program4", "popUpProgram4"],
-        ["program5", "popUpProgram5"],
-        ["program6", "popUpProgram6"],
-        ["program7", "popUpProgram7"]
-    ]);
-
-    for (const progZone of zone2PopUpMap.keys()) {
-        WA.room.onEnterZone(progZone, () => {openPopupWithWebsiteYesNo(zone2PopUpMap.get(progZone), programMsg, urlProgram)})
-        WA.room.onLeaveZone(progZone, () => {closePopupWithWebsite()})
+function closePopUp(){
+    if (currentPopup !== undefined) {
+        currentPopup.close();
+        currentPopup = undefined;
     }
-});
+}
+
+WA.room.onEnterZone(zoneTutorial, () => {
+   currentPopup =  WA.ui.openPopup("popUpTutorial","Tutorial ansehen?",[
+        {
+            label: "OK",
+            callback: (popup => {
+                WA.nav.openCoWebSite(urlTutorial, false, "autoplay;camera;microphone;fullscreen;encrypted-media");
+                isCoWebSiteOpened = true;
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone(zoneTutorial, () =>{
+    closePopUp();
+
+    if (isCoWebSiteOpened) {
+        WA.nav.closeCoWebSite();
+        isCoWebSiteOpened = false;
+    }
+})
+
+WA.onInit().then(() => {
+    console.log("Scripting API ready")
+    console.log("Player tags: ", WA.player.tags)
+	
+    WA.room.onEnterLayer("votePos").subscribe(() => {
+      console.log("VotePos: ", WA.state.votePos)
+      WA.state.votePos++
+    })
+    WA.room.onLeaveLayer("votePos").subscribe(() => {
+      console.log("VotePos: ", WA.state.votePos)
+      if (WA.state.votePos === 0) return
+      WA.state.votePos--
+    })
+    WA.room.onEnterLayer("voteNeg").subscribe(() => {
+      console.log("voteNeg: ", WA.state.voteNeg)
+      WA.state.voteNeg++
+    })
+    WA.room.onLeaveLayer("voteNeg").subscribe(() => {
+      console.log("voteNeg: ", WA.state.voteNeg)
+      if (WA.state.voteNeg === 0) return
+      WA.state.voteNeg--
+    })
+    WA.room.onEnterLayer("voteNeut").subscribe(() => {
+      console.log("voteNeut: ", WA.state.voteNeut)
+      WA.state.voteNeut++
+    })
+    WA.room.onLeaveLayer("voteNeut").subscribe(() => {
+      console.log("voteNeut: ", WA.state.voteNeut)
+      if (WA.state.voteNeut === 0) return
+      WA.state.voteNeut--
+    })
+  
+      // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
+      bootstrapExtra()
+        .then(() => {
+          console.log("Scripting API Extra ready")
+        })
+        .catch(e => console.error(e))
+    })
+    .catch(e => console.error(e))
 
 export {};

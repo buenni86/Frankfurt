@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-	<script src="https://play.workadventu.re/iframe_api.js"></script>
     <meta charset="utf-8">
     <meta name="robots" content="noindex">
     <title>Workadventure Map</title>
@@ -55,22 +54,21 @@
 <!-- At the end of the body to simulate $.ready() -->
 <script type="application/javascript">
   (function () {
+    function setContentFromQueryParam(id){
+      if (queryParams[id]) {
+        document.getElementById(id).textContent = queryParams[id]
+      } else {
+        document.getElementById(id).textContent = ''
+      }
+    }
 
     const queryParams = new Proxy(new URLSearchParams(window.location.search), {
       get: (searchParams, prop) => searchParams.get(prop),
     })
-	
-	WA.onInit().then(() => {
-		document.getElementById("line1").innerText = WA.state[queryParams.name];
-		document.getElementById("line2").innerText = WA.state[queryParams.name + "_2"];
-	});
-	
-	WA.state.onVariableChange(queryParams.name).subscribe((value) => {
-		document.getElementById("line1").innerText = value;
-	});
-	WA.state.onVariableChange(queryParams.name + "_2").subscribe((value) => {
-		document.getElementById("line2").innerText = value;
-	});
+
+    setContentFromQueryParam("line1")
+    setContentFromQueryParam("line2")
+
   })()
 </script>
 </body>
