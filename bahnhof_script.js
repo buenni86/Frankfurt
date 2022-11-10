@@ -17,9 +17,37 @@ function closePopUp(){
         currentPopup = undefined;
     }
 }
+WA.room.onEnterZone("start_zone", () => {
+   currentPopup =  WA.ui.openPopup("popUpStart","Als Webanwendung läuft WorkAdventure ohne Installation im Browser, auch auf mobilen Geräten!\nIn wenigen Sekunden sind Nutzer so startklar.\nUnsere Umgebungen können so konfiguriert werden, dass sie DB intern (Single Sign On Authentifizierung) oder öffentlich erreichbar sind.\nZu internen Veranstaltungen können einzelne externe Personen zugelassen werden",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("start_zone", () =>{
+    closePopUp();
+})
+WA.room.onEnterZone("workshop_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpWorkshop","In Besprechungszonen wird man automatisch mit allen Personen zusammengeschaltet, die sich mit ihrem Avatar dort befinden. Parallele Workshopsessions, Randgespräche, Nachfragen an die Referenten, Frei Bewegung für Teilnehmer – alles kein Problem!",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("workshop_program", () =>{
+    closePopUp();
+})
+
+
 
 WA.room.onEnterZone(zoneTutorial, () => {
-   currentPopup =  WA.ui.openPopup("popUpTutorial","Tutorial ansehen?",[
+   currentPopup =  WA.ui.openPopup("popUpTutorial","Einige Webanwendungen die eine Einbindung erlauben, können direkt in WorkAdventure geöffnet werden. So wie unser Tutorialvideo",[
         {
             label: "OK",
             callback: (popup => {
