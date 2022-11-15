@@ -30,6 +30,231 @@ WA.room.onEnterZone("start_zone", () => {
 WA.room.onLeaveZone("start_zone", () =>{
     closePopUp();
 })
+WA.room.onEnterZone("koch_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpKoch","Auch Videos von Plattformen wie MS Streams können als Fenster eingebettet werden!",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("koch_program", () =>{
+    closePopUp();
+})
+
+
+WA.room.onEnterZone("main_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpMain","Auch LiveStreams von DB WebCast sind integrierbar und können in die Umgebung eingebunden werden!",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("main_program", () =>{
+    closePopUp();
+})
+WA.room.onEnterZone("gif_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpGif","Informationsausspielung an Infobildschirmen? Auch virtuell kein Problem!",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("gif_program", () =>{
+    closePopUp();
+})
+
+
+WA.room.onEnterZone("grie_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpGrie","Alternativ können Videos auch direkt in die Umgebung integriert werden!",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("grie_program", () =>{
+    closePopUp();
+})
+
+
+
+WA.room.onEnterZone("program6", () => {
+   currentPopup =  WA.ui.openPopup("popUpProgram6","Eingebundene Webinhalte können Workshopformate unterstützen oder unterhalten und zum Vernetzen anregen!",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("program6", () =>{
+    closePopUp();
+})
+WA.room.onEnterZone("crossing_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpCrossing","Kartenübergänge ermöglichen einen nahtlosen Übergang zwischen zwei Umgebungen.\n So kombinierst du verschiedene Bereiche passend für dein Event!",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("crossing_program", () =>{
+    closePopUp();
+})
+
+WA.room.onEnterZone("portal_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpPortal","Auch im Arbeitsalltag sind unsere Umgebung als virtuelles Büro nutzbar!\n\nSo bringen wir Teamgefühl, Austausch und spontane Gespräche zur Abstimmung geht aber verloren.\n Wir ändern das und bringen das Bürofeeling ins Homeoffice",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("portal_program", () =>{
+    closePopUp();
+})
+
+
+
+WA.room.onEnterZone("choices_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpChoices","Abstimmungen der anderen Art!\n\nMit unseren interaktiven Elementen gibst du durch die Positionierung deines Avatars deine Stimme ab",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("choices_program", () =>{
+    closePopUp();
+})
+
+
+
+WA.room.onEnterZone("sign_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpSigns","Texte und Beschriftungen können durch Moderatoren jederzeit angepasst werden",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("sign_program", () =>{
+    closePopUp();
+})
+
+
+
+
+
+
+WA.room.onEnterZone("schalter_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpSchalter","Netzwerk-Bereiche bringst du Leute durch Aktivitäten wie Speed-Networking zusammen",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("schalter_program", () =>{
+    closePopUp();
+})
+
+WA.room.onEnterZone("schalter1_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpSchalter1","Was ist deine Lieblingserinnerung an eine Bahnreise?",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("schalter1_program", () =>{
+    closePopUp();
+})
+
+WA.room.onEnterZone("schalter2_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpSchalter2","Seit wann arbeitest du bei der Bahn? In welchen Bereichen warst du aktiv?",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("schalter2_program", () =>{
+    closePopUp();
+})
+WA.room.onEnterZone("schalter3_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpSchalter3","Was ist dein Lieblingsbuch?",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("schalter3_program", () =>{
+    closePopUp();
+})
+WA.room.onEnterZone("schalter4_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpSchalter4","Welchen Star hast du schonmal getroffen oder möchtest einmal treffen?",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("schalter4_program", () =>{
+    closePopUp();
+})
+
+WA.room.onEnterZone("schalter5_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpSchalter5","Für was ist deine Abteilung zuständig?",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("schalter5_program", () =>{
+    closePopUp();
+})
+
+
+
+
+
+
+
 WA.room.onEnterZone("workshop_program", () => {
    currentPopup =  WA.ui.openPopup("popUpWorkshop","In Besprechungszonen wird man automatisch mit allen Personen zusammengeschaltet, die sich mit ihrem Avatar dort befinden. Parallele Workshopsessions, Randgespräche, Nachfragen an die Referenten, Frei Bewegung für Teilnehmer – alles kein Problem!",[
         {
@@ -44,7 +269,32 @@ WA.room.onLeaveZone("workshop_program", () =>{
     closePopUp();
 })
 
+WA.room.onEnterZone("worldtour_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpWorldtour","Umgebungen sind vollständig individualisierbar, alternativ kannst du die zu deinem Event passende Standardkarten wählen und mit uns anpassen!",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
 
+WA.room.onLeaveZone("worldtour_program", () =>{
+    closePopUp();
+})
+WA.room.onEnterZone("whiteboard_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpWhiteboard","Auch das Conceptboard-Whiteboard ist in die Umgebung integrierbar.",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("whiteboard_program", () =>{
+    closePopUp();
+})
 
 WA.room.onEnterZone(zoneTutorial, () => {
    currentPopup =  WA.ui.openPopup("popUpTutorial","Einige Webanwendungen die eine Einbindung erlauben, können direkt in WorkAdventure geöffnet werden. So wie unser Tutorialvideo",[
