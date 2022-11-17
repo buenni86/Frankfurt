@@ -17,19 +17,7 @@ function closePopUp(){
         currentPopup = undefined;
     }
 }
-WA.room.onEnterZone("start_zone", () => {
-   currentPopup =  WA.ui.openPopup("popUpStart","Als Webanwendung läuft WorkAdventure ohne Installation im Browser, auch auf mobilen Geräten!\nIn wenigen Sekunden sind Nutzer so startklar.\nUnsere Umgebungen können so konfiguriert werden, dass sie DB intern (Single Sign On Authentifizierung) oder öffentlich erreichbar sind.\nZu internen Veranstaltungen können einzelne externe Personen zugelassen werden",[
-        {
-            label: "OK",
-            callback: (popup => {
-                closePopUp();
-            })
-        }]);
-})
 
-WA.room.onLeaveZone("start_zone", () =>{
-    closePopUp();
-})
 WA.room.onEnterZone("koch_program", () => {
    currentPopup =  WA.ui.openPopup("popUpKoch","Auch Videos von Plattformen wie MS Streams können als Fenster eingebettet werden!",[
         {
@@ -88,6 +76,27 @@ WA.room.onLeaveZone("grie_program", () =>{
 })
 
 
+WA.room.onEnterZone("program7", () => {
+   currentPopup =  WA.ui.openPopup("popUpProgram7","Webinhalte die nicht direkt in WorkAdventure darstellbar sind,\n können stattdessen verlinkt werden!\n\n An unserem Fahrkartenautomat findest du z.B. die Bestellung von Mitarbeiterfahrkarten!",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        },
+		{
+            label: "Fahrkarte bestellen",
+            callback: (popup => {
+				WA.nav.openTab("https://www.db-reisemarkt.de/reisemarkt/bahnangebote/inland/ma_fahrkarten_bestellung-8136358#")
+                closePopUp();
+            })
+        }
+		]);
+})
+
+WA.room.onLeaveZone("program7", () =>{
+    closePopUp();
+})
 
 WA.room.onEnterZone("program6", () => {
    currentPopup =  WA.ui.openPopup("popUpProgram6","Eingebundene Webinhalte können Workshopformate unterstützen oder unterhalten und zum Vernetzen anregen!",[
@@ -103,7 +112,7 @@ WA.room.onLeaveZone("program6", () =>{
     closePopUp();
 })
 WA.room.onEnterZone("crossing_program", () => {
-   currentPopup =  WA.ui.openPopup("popUpCrossing","Kartenübergänge ermöglichen einen nahtlosen Übergang zwischen zwei Umgebungen.\n So kombinierst du verschiedene Bereiche passend für dein Event!",[
+   currentPopup =  WA.ui.openPopup("popUpCrossing","Kartenübergänge ermöglichen einen nahtlosen Übergang zwischen zwei Umgebungen.\n\n So kombinierst du verschiedene Bereiche passend für dein Event!",[
         {
             label: "OK",
             callback: (popup => {
@@ -256,7 +265,7 @@ WA.room.onLeaveZone("schalter5_program", () =>{
 
 
 WA.room.onEnterZone("workshop_program", () => {
-   currentPopup =  WA.ui.openPopup("popUpWorkshop","In Besprechungszonen wird man automatisch mit allen Personen zusammengeschaltet, die sich mit ihrem Avatar dort befinden. Parallele Workshopsessions, Randgespräche, Nachfragen an die Referenten, Frei Bewegung für Teilnehmer – alles kein Problem!",[
+   currentPopup =  WA.ui.openPopup("popUpWorkshop","In Besprechungszonen wird man automatisch mit allen Personen zusammengeschaltet,\n die sich mit ihrem Avatar dort befinden.\n\n Parallele Workshopsessions, Randgespräche, Nachfragen an die Referenten, Frei Bewegung für Teilnehmer – alles kein Problem!",[
         {
             label: "OK",
             callback: (popup => {
@@ -374,6 +383,19 @@ WA.onInit().then(() => {
       bootstrapExtra()
         .then(() => {
           console.log("Scripting API Extra ready")
+		  WA.room.onEnterZone("start_zone", () => {
+   currentPopup =  WA.ui.openPopup("popUpStart","Als Webanwendung läuft WorkAdventure ohne Installation im Browser, auch auf mobilen Geräten!\n\nIn wenigen Sekunden sind Nutzer so startklar.\nUnsere Umgebungen können so konfiguriert werden, dass sie DB intern (Single Sign On Authentifizierung) oder öffentlich erreichbar sind.\nZu internen Veranstaltungen können einzelne externe Personen zugelassen werden",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("start_zone", () =>{
+    closePopUp();
+})
         })
         .catch(e => console.error(e))
     })
