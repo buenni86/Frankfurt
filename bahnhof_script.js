@@ -47,7 +47,7 @@ WA.room.onLeaveZone("main_program", () =>{
     closePopUp();
 })
 WA.room.onEnterZone("gif_program", () => {
-   currentPopup =  WA.ui.openPopup("popUpGif","Informationsausspielung an Infobildschirmen? Auch virtuell kein Problem!",[
+   currentPopup =  WA.ui.openPopup("popUpGif","Informationsausspielung an Infobildschirmen?\nAuch virtuell kein Problem!",[
         {
             label: "OK",
             callback: (popup => {
@@ -112,7 +112,7 @@ WA.room.onLeaveZone("program6", () =>{
     closePopUp();
 })
 WA.room.onEnterZone("crossing_program", () => {
-   currentPopup =  WA.ui.openPopup("popUpCrossing","Kartenübergänge ermöglichen einen nahtlosen Übergang zwischen zwei Umgebungen.\n\n So kombinierst du verschiedene Bereiche passend für dein Event!",[
+   currentPopup =  WA.ui.openPopup("popUpCrossing","Kartenübergänge ermöglichen einen nahtlosen Übergang zwischen zwei Umgebungen.\n\nSo kombinierst du verschiedene Bereiche passend für dein Event!",[
         {
             label: "OK",
             callback: (popup => {
@@ -205,7 +205,7 @@ WA.room.onLeaveZone("schalter1_program", () =>{
 })
 
 WA.room.onEnterZone("schalter2_program", () => {
-   currentPopup =  WA.ui.openPopup("popUpSchalter2","Seit wann arbeitest du bei der Bahn? In welchen Bereichen warst du aktiv?",[
+   currentPopup =  WA.ui.openPopup("popUpSchalter2","Seit wann arbeitest du bei der Bahn?\n In welchen Bereichen warst du aktiv?",[
         {
             label: "OK",
             callback: (popup => {
@@ -306,7 +306,7 @@ WA.room.onLeaveZone("whiteboard_program", () =>{
 })
 
 WA.room.onEnterZone(zoneTutorial, () => {
-   currentPopup =  WA.ui.openPopup("popUpTutorial","Einige Webanwendungen die eine Einbindung erlauben, können direkt in WorkAdventure geöffnet werden. So wie unser Tutorialvideo",[
+   currentPopup =  WA.ui.openPopup("popUpTutorial","Einige Webanwendungen die eine Einbindung erlauben, können direkt in WorkAdventure geöffnet werden.\n\n So wie unser Tutorialvideo",[
         {
             label: "OK",
             callback: (popup => {
