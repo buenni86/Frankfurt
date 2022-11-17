@@ -83,9 +83,17 @@ WA.room.onEnterZone("program7", () => {
             callback: (popup => {
                 closePopUp();
             })
-        },
+        }
+		]);
+})
+
+WA.room.onLeaveZone("program7", () =>{
+    closePopUp();
+})
+WA.room.onEnterZone("ticket_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpTicket","Mitarbeiterfahrkarten bestellen?",[
 		{
-            label: "Fahrkarte bestellen",
+            label: "Bestellen",
             callback: (popup => {
 				WA.nav.openTab("https://www.db-reisemarkt.de/reisemarkt/bahnangebote/inland/ma_fahrkarten_bestellung-8136358#")
                 closePopUp();
@@ -94,7 +102,7 @@ WA.room.onEnterZone("program7", () => {
 		]);
 })
 
-WA.room.onLeaveZone("program7", () =>{
+WA.room.onLeaveZone("ticket_program", () =>{
     closePopUp();
 })
 
