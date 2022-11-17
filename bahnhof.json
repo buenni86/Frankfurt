@@ -5271,7 +5271,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":".\/demobuero"
+                                 "value":".\/demo_buero"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
