@@ -1973,25 +1973,6 @@
                 {
                  "class":"",
                  "height":22.9635,
-                 "id":102,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#eeeeee",
-                     "fontfamily":"Press Start 2P",
-                     "pixelsize":21,
-                     "text":"<",
-                     "wrap":true
-                    },
-                 "visible":true,
-                 "width":18.698,
-                 "x":1467.651,
-                 "y":2279.51825
-                }, 
-                {
-                 "class":"",
-                 "height":22.9635,
                  "id":104,
                  "name":"",
                  "rotation":0,
@@ -2121,25 +2102,6 @@
                  "width":18.698,
                  "x":2303.651,
                  "y":2181.51825
-                }, 
-                {
-                 "class":"",
-                 "height":22.9635,
-                 "id":113,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#eeeeee",
-                     "fontfamily":"Press Start 2P",
-                     "pixelsize":21,
-                     "text":"<",
-                     "wrap":true
-                    },
-                 "visible":true,
-                 "width":18.698,
-                 "x":1977.651,
-                 "y":2279.51825
                 }, 
                 {
                  "class":"",
