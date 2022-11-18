@@ -18,6 +18,21 @@ function closePopUp(){
     }
 }
 
+
+ WA.room.onEnterZone("start_zone", () => {
+   currentPopup =  WA.ui.openPopup("popUpStart","Als Webanwendung läuft WorkAdventure ohne Installation im Browser, auch auf mobilen Geräten!\n\nIn wenigen Sekunden sind Nutzer so startklar.\nUnsere Umgebungen können so konfiguriert werden, dass sie DB intern (Single Sign On Authentifizierung) oder öffentlich erreichbar sind.\nZu internen Veranstaltungen können einzelne externe Personen zugelassen werden",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("start_zone", () =>{
+    closePopUp();
+})
+
 WA.room.onEnterZone("koch_program", () => {
    currentPopup =  WA.ui.openPopup("popUpKoch","Auch Videos von Plattformen wie MS Streams können als Fenster eingebettet werden!",[
         {
@@ -105,7 +120,21 @@ WA.room.onEnterZone("ticket_program", () => {
 WA.room.onLeaveZone("ticket_program", () =>{
     closePopUp();
 })
+WA.room.onEnterZone("ticket2_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpTicket2","Mitarbeiterfahrkarten bestellen?",[
+		{
+            label: "Bestellen",
+            callback: (popup => {
+				WA.nav.openTab("https://www.db-reisemarkt.de/reisemarkt/bahnangebote/inland/ma_fahrkarten_bestellung-8136358#")
+                closePopUp();
+            })
+        }
+		]);
+})
 
+WA.room.onLeaveZone("ticket2_program", () =>{
+    closePopUp();
+})
 WA.room.onEnterZone("program6", () => {
    currentPopup =  WA.ui.openPopup("popUpProgram6","Eingebundene Webinhalte können Workshopformate unterstützen oder unterhalten und zum Vernetzen anregen!",[
         {
@@ -147,7 +176,19 @@ WA.room.onLeaveZone("portal_program", () =>{
     closePopUp();
 })
 
+WA.room.onEnterZone("jaz_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpJaz","Für  einen noch stärkeren Konferenz- und Eventservice lässt sich DB WorkAdventure problemlos in JAZ integrieren!",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
 
+WA.room.onLeaveZone("jaz_program", () =>{
+    closePopUp();
+})
 
 WA.room.onEnterZone("choices_program", () => {
    currentPopup =  WA.ui.openPopup("popUpChoices","Abstimmungen der anderen Art!\n\nMit unseren interaktiven Elementen gibst du durch die Positionierung deines Avatars deine Stimme ab",[
@@ -266,12 +307,6 @@ WA.room.onLeaveZone("schalter5_program", () =>{
     closePopUp();
 })
 
-
-
-
-
-
-
 WA.room.onEnterZone("workshop_program", () => {
    currentPopup =  WA.ui.openPopup("popUpWorkshop","In Besprechungszonen wird man automatisch mit allen Personen zusammengeschaltet,\n die sich mit ihrem Avatar dort befinden.\n\n Parallele Workshopsessions, Randgespräche, Nachfragen an die Referenten, Frei Bewegung für Teilnehmer – alles kein Problem!",[
         {
@@ -314,12 +349,12 @@ WA.room.onLeaveZone("whiteboard_program", () =>{
 })
 
 WA.room.onEnterZone(zoneTutorial, () => {
+	WA.nav.openCoWebSite(urlTutorial, false, "autoplay;camera;microphone;fullscreen;encrypted-media");
+   isCoWebSiteOpened = true;
    currentPopup =  WA.ui.openPopup("popUpTutorial","Einige Webanwendungen die eine Einbindung erlauben, können direkt in WorkAdventure geöffnet werden.\n\n So wie unser Tutorialvideo",[
         {
             label: "OK",
             callback: (popup => {
-                WA.nav.openCoWebSite(urlTutorial, false, "autoplay;camera;microphone;fullscreen;encrypted-media");
-                isCoWebSiteOpened = true;
                 closePopUp();
             })
         }]);
@@ -345,6 +380,7 @@ const buttons = [
 
 WA.onInit().then(() => {
     console.log("Scripting API ready")
+	
     console.log("Player tags: ", WA.player.tags)
 	
     WA.room.onEnterLayer("votePos").subscribe(() => {
@@ -391,19 +427,7 @@ WA.onInit().then(() => {
       bootstrapExtra()
         .then(() => {
           console.log("Scripting API Extra ready")
-		  WA.room.onEnterZone("start_zone", () => {
-   currentPopup =  WA.ui.openPopup("popUpStart","Als Webanwendung läuft WorkAdventure ohne Installation im Browser, auch auf mobilen Geräten!\n\nIn wenigen Sekunden sind Nutzer so startklar.\nUnsere Umgebungen können so konfiguriert werden, dass sie DB intern (Single Sign On Authentifizierung) oder öffentlich erreichbar sind.\nZu internen Veranstaltungen können einzelne externe Personen zugelassen werden",[
-        {
-            label: "OK",
-            callback: (popup => {
-                closePopUp();
-            })
-        }]);
-})
-
-WA.room.onLeaveZone("start_zone", () =>{
-    closePopUp();
-})
+		 
         })
         .catch(e => console.error(e))
     })
