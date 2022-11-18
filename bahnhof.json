@@ -7055,7 +7055,7 @@
                          "height":80,
                          "id":118,
                          "name":"jaz_program",
-                         "opacity":0.45,
+                         "opacity":0,
                          "properties":[
                                 {
                                  "name":"zone",
