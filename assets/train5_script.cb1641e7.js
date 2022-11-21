@@ -1,5 +1,0 @@
-import{b as i}from"./init.236350a7.js";import{s as u,r as c,d as o}from"./sign_script.8b8c276b.js";var e=void 0;function s(){e!==void 0&&(e.close(),e=void 0)}WA.onInit(async()=>{i().then(()=>{console.log("Scripting API Extra ready")}).catch(a=>console.error(a));const n=await WA.room.website.get("sign5a"),t=await WA.room.website.get("sign5b"),r=new Map([[n,o],[t,o]]);u(r),c(r)});WA.room.onEnterZone("program",()=>{e=WA.ui.openPopup("popUpProgram",`Was. Ein. Event. \xDCber 1.300 Techies aus dem gesamten Konzern kamen vom 10. bis 12. Mai 2022 auf der DB TechCon zusammen, um sich intensiv \xFCber das breite IT- und Technikspektrum der Deutschen Bahn auszutauschen - und mehr.
-
- All das komplett virtuell auf der riesigen DB TechCon Map in WorkAdventure.
-In \xFCber 100 Beitr\xE4gen in Form von Vortr\xE4gen, Workshops und Diskussionsrunden wurden Best Practices und Fails ausgetauscht, Wissen geteilt, genetzwerkt, diskutiert, gewerkelt und nicht zuletzt:
-gemeinsam Spa\xDF gehabt!`,[{label:"OK",callback:n=>{s()}}])});WA.room.onLeaveZone("program",()=>{s()});
