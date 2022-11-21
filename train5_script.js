@@ -32,8 +32,8 @@ WA.onInit(async () => {
     
 })
 
-WA.room.onEnterZone("program", () => { 
-	currentPopup =  WA.ui.openPopup("popUpProgram","Was. Ein. Event. Über 1.300 Techies aus dem gesamten Konzern kamen vom 10. bis 12. Mai 2022 auf der DB TechCon zusammen, um sich intensiv über das breite IT- und Technikspektrum der Deutschen Bahn auszutauschen - und mehr.\n\n All das komplett virtuell auf der riesigen DB TechCon Map in WorkAdventure.\nIn über 100 Beiträgen in Form von Vorträgen, Workshops und Diskussionsrunden wurden Best Practices und Fails ausgetauscht, Wissen geteilt, genetzwerkt, diskutiert, gewerkelt und nicht zuletzt:\ngemeinsam Spaß gehabt!",[
+WA.room.onEnterZone("program1", () => { 
+	currentPopup =  WA.ui.openPopup("popUpProgram1","Auch im Arbeitsalltag sind unsere Umgebung als virtuelles Büro nutzbar! So bringen wir das Bürofeeling mit spontanem Austausch, Abstimmung, Hilfestellung und mehr Informationsfluss untereinander ins Homeoffice. So seid ihr standortunabhängig in eurem Büro vereint!",[
         {
             label: "OK",
             callback: (popup => {
@@ -43,5 +43,45 @@ WA.room.onEnterZone("program", () => {
 		})
     
 	
-	WA.room.onLeaveZone("program", () => { closePopUp() })
+	WA.room.onLeaveZone("program1", () => { closePopUp() })
+
+WA.room.onEnterZone("program2", () => { 
+	currentPopup =  WA.ui.openPopup("popUpProgram2","Was. Ein. Event. Über 1.300 Techies aus dem gesamten Konzern kamen vom 10. bis 12. Mai 2022 auf der DB TechCon zusammen, um sich intensiv über das breite IT- und Technikspektrum der Deutschen Bahn auszutauschen - und mehr.\n All das komplett virtuell auf der riesigen DB TechCon Map in WorkAdventure. In über 100 Beiträgen in Form von Vorträgen, Workshops und Diskussionsrunden wurden Best Practices und Fails ausgetauscht, Wissen geteilt, genetzwerkt, diskutiert, gewerkelt und nicht zuletzt:\ngemeinsam Spaß gehabt!",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]); 
+		})
+    
+	
+	WA.room.onLeaveZone("program2", () => { closePopUp() })
+	
+WA.room.onEnterZone("program3", () => { 
+	currentPopup =  WA.ui.openPopup("popUpProgram3","Kollegen aus Nanjing, Neu-Delhi, Torronto, Warschau und Essen in den Austausch bringen? Kein Problem!",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]); 
+		})
+    
+	
+	WA.room.onLeaveZone("program3", () => { closePopUp() })
+	
+	
+WA.room.onEnterZone("program4", () => { 
+	currentPopup =  WA.ui.openPopup("popUpProgram4","Schulungsinhalte mit Gruppenarbeiten interaktiv vermitteln? Gestalte jetzt wie die Kollegen der DB Fernverkehr deinen begehbare Lernumgebung mit uns!",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]); 
+		})
+    
+	
+	WA.room.onLeaveZone("program4", () => { closePopUp() })
 export { };

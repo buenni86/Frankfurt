@@ -21,7 +21,7 @@ function closePopUp(){
 
 
 
-   currentPopup =  WA.ui.openPopup("popUpStart","Als Webanwendung läuft WorkAdventure ohne Installation im Browser, auch auf mobilen Geräten!\n\nIn wenigen Sekunden sind Nutzer so startklar.\nUnsere Umgebungen können so konfiguriert werden, dass sie DB intern (Single Sign On Authentifizierung) oder öffentlich erreichbar sind.\nZu internen Veranstaltungen können einzelne externe Personen zugelassen werden",[
+   currentPopup =  WA.ui.openPopup("popUpStart","Willkommen bei unserer Live-Demo von DB WorkAdventure zum Digital Workplace Anwendertag!\n\nErkunde unsere Umgebung mit deinem Avatar, um die verschiedenen Funktionen und Möglichkeiten kennenzulernen.\nIm Programm des Anwendertages kannst du unseren Vortrag zu digital Eventplattformen bzw. unseren Markstand zur ortsunabhängigen Zusammenarbeit in virtuellen Büros besuchen, um mehr zu erfahren!",[
         {
             label: "OK",
             callback: (popup => {
@@ -118,6 +118,23 @@ WA.room.onEnterZone("koch_program", () => {
 WA.room.onLeaveZone("koch_program", () =>{
     closePopUp();
 })
+ 
+WA.room.onEnterZone("startImage_program", () => {
+   currentPopup =  WA.ui.openPopup("popUpImage","Als Webanwendung läuft WorkAdventure ohne Installation im Browser, auch auf mobilen Geräten! In wenigen Sekunden sind Nutzer so startklar. Unsere Umgebungen können so konfiguriert werden, dass sie DB intern (Single Sign On Authentifizierung) oder öffentlich erreichbar sind. Auch können einzelne externe Personen Zugang erhalten.\n\nIn der Übersicht unserer Umgebung siehst du welche dort eingebauten Funktionen du entdecken kannst!",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone("startImage_program", () =>{
+    closePopUp();
+})
+
+
+
 
 
 WA.room.onEnterZone("main_program", () => {
