@@ -18,17 +18,44 @@ function closePopUp(){
     }
 }
 
-
+function timeout(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
 
 
    currentPopup =  WA.ui.openPopup("popUpStart","Willkommen bei unserer Live-Demo von DB WorkAdventure zum Digital Workplace Anwendertag!\n\nErkunde unsere Umgebung mit deinem Avatar, um die verschiedenen Funktionen und Möglichkeiten kennenzulernen.\nIm Programm des Anwendertages kannst du unseren Vortrag zu digital Eventplattformen bzw. unseren Markstand zur ortsunabhängigen Zusammenarbeit in virtuellen Büros besuchen, um mehr zu erfahren!",[
-        {
+        
+		{
             label: "OK",
             callback: (popup => {
                 closePopUp();
             })
         }]);
+async function closeAfterTime() {
+    await timeout(15000);
+	closePopUp();
+    return currentPopUp;
+}
+closeAfterTime();
 
+
+
+
+
+WA.room.onEnterZone("start_zone", () => {
+currentPopup =  WA.ui.openPopup("popUpStart","Willkommen bei unserer Live-Demo von DB WorkAdventure zum Digital Workplace Anwendertag!\n\nErkunde unsere Umgebung mit deinem Avatar, um die verschiedenen Funktionen und Möglichkeiten kennenzulernen.\nIm Programm des Anwendertages kannst du unseren Vortrag zu digital Eventplattformen bzw. unseren Markstand zur ortsunabhängigen Zusammenarbeit in virtuellen Büros besuchen, um mehr zu erfahren!",[
+        
+		{
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+		
+		
+});
+		
+		
 
 WA.room.onLeaveZone("start_zone", () =>{
     closePopUp();
@@ -51,6 +78,7 @@ const buttons = [
 
 
 WA.onInit().then(() => {
+	
     console.log("Scripting API ready")
     console.log("Player tags: ", WA.player.tags)
 	

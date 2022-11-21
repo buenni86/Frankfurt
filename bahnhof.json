@@ -1626,7 +1626,7 @@
                 }, 
                 {
                  "class":"",
-                 "height":71.6301666666668,
+                 "height":14.6301666666668,
                  "id":9,
                  "name":"",
                  "rotation":0,
@@ -1635,13 +1635,13 @@
                      "color":"#eeeeee",
                      "fontfamily":"Press Start 2P",
                      "pixelsize":29,
-                     "text":"Hier kommen die Gem\u00e4lde hin!",
+                     "text":"^^",
                      "wrap":true
                     },
                  "visible":true,
-                 "width":819.031333333333,
-                 "x":2384.72675757576,
-                 "y":1889.39703787879
+                 "width":60.0313333333329,
+                 "x":2714.72675757576,
+                 "y":1916.39703787879
                 }, 
                 {
                  "class":"",
