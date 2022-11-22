@@ -26,7 +26,6 @@ function timeout(ms) {
 async function closeAfterTime() {
 	
     await timeout(15000);
-	
 	closePopUp();
 }
 
@@ -118,6 +117,7 @@ closeAfterTime();
 
 
 WA.room.onEnterZone("start_zone", () => {
+	closePopUp();
 	currentPopup =  WA.ui.openPopup("popUpStart","Willkommen bei unserer Live-Demo von DB WorkAdventure zum Digital Workplace Anwendertag!\n\nErkunde unsere Umgebung mit deinem Avatar, um die verschiedenen Funktionen und Möglichkeiten kennenzulernen.\nIm Programm des Anwendertages kannst du unseren Vortrag zu digital Eventplattformen bzw. unseren Markstand zur ortsunabhängigen Zusammenarbeit in virtuellen Büros besuchen, um mehr zu erfahren!",[
 	
 		{
@@ -126,6 +126,8 @@ WA.room.onEnterZone("start_zone", () => {
                 closePopUp();
             })
         }]);
+
+	
 		
 		
 });
