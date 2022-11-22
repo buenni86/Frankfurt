@@ -1,4 +1,4 @@
-import { bootstrapExtra } from "@workadventure/scripting-api-extra";
+import {} from "@workadventure/scripting-api-extra";
 import { track5Map, setTrackContent, refreshSigns } from "./sign_script.js";
 import { openPopupWithWebsiteYesNo, closePopupWithWebsite } from "./popUp_script.js";
 import * as vars from "./vars.js";
