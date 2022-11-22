@@ -11,6 +11,7 @@ var urlTutorial = "https://web.microsoftstream.com/embed/video/ca24bcea-3cab-487
 var zoneTutorial = "tutorial";
 
 
+		
 function closePopUp(){
     if (currentPopup !== undefined) {
         currentPopup.close();
@@ -22,48 +23,11 @@ function timeout(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-
-   currentPopup =  WA.ui.openPopup("popUpStart","Willkommen bei unserer Live-Demo von DB WorkAdventure zum Digital Workplace Anwendertag!\n\nErkunde unsere Umgebung mit deinem Avatar, um die verschiedenen Funktionen und Möglichkeiten kennenzulernen.\nIm Programm des Anwendertages kannst du unseren Vortrag zu digital Eventplattformen bzw. unseren Markstand zur ortsunabhängigen Zusammenarbeit in virtuellen Büros besuchen, um mehr zu erfahren!",[
-        
-		{
-            label: "OK",
-            callback: (popup => {
-                closePopUp();
-            })
-        }]);
 async function closeAfterTime() {
+	
     await timeout(15000);
 	closePopUp();
-    return currentPopUp;
 }
-closeAfterTime();
-
-
-
-
-
-WA.room.onEnterZone("start_zone", () => {
-	if (currentPopup !== undefined) {
-        currentPopup.close();
-        currentPopup = undefined;
-    }
-	currentPopup =  WA.ui.openPopup("popUpStart","Willkommen bei unserer Live-Demo von DB WorkAdventure zum Digital Workplace Anwendertag!\n\nErkunde unsere Umgebung mit deinem Avatar, um die verschiedenen Funktionen und Möglichkeiten kennenzulernen.\nIm Programm des Anwendertages kannst du unseren Vortrag zu digital Eventplattformen bzw. unseren Markstand zur ortsunabhängigen Zusammenarbeit in virtuellen Büros besuchen, um mehr zu erfahren!",[
-	
-		{
-            label: "OK",
-            callback: (popup => {
-                closePopUp();
-            })
-        }]);
-		
-		
-});
-		
-		
-
-WA.room.onLeaveZone("start_zone", () =>{
-    closePopUp();
-})
 
 
 
@@ -135,6 +99,43 @@ WA.onInit().then(() => {
         .catch(e => console.error(e))
     })
     .catch(e => console.error(e))
+
+currentPopup =  WA.ui.openPopup("popUpStart","Willkommen bei unserer Live-Demo von DB WorkAdventure zum Digital Workplace Anwendertag!\n\nErkunde unsere Umgebung mit deinem Avatar, um die verschiedenen Funktionen und Möglichkeiten kennenzulernen.\nIm Programm des Anwendertages kannst du unseren Vortrag zu digital Eventplattformen bzw. unseren Markstand zur ortsunabhängigen Zusammenarbeit in virtuellen Büros besuchen, um mehr zu erfahren!",[
+        
+		{
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+ 
+
+closeAfterTime();
+
+
+
+
+
+WA.room.onEnterZone("start_zone", () => {
+	currentPopup =  WA.ui.openPopup("popUpStart","Willkommen bei unserer Live-Demo von DB WorkAdventure zum Digital Workplace Anwendertag!\n\nErkunde unsere Umgebung mit deinem Avatar, um die verschiedenen Funktionen und Möglichkeiten kennenzulernen.\nIm Programm des Anwendertages kannst du unseren Vortrag zu digital Eventplattformen bzw. unseren Markstand zur ortsunabhängigen Zusammenarbeit in virtuellen Büros besuchen, um mehr zu erfahren!",[
+	
+		{
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        }]);
+		
+		
+});
+		
+		
+
+WA.room.onLeaveZone("start_zone", () =>{
+    closePopUp();
+})
+
+
 
  
 WA.room.onEnterZone("koch_program", () => {
