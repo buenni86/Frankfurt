@@ -3284,52 +3284,6 @@
                 {
                  "class":"variable",
                  "height":0,
-                 "id":50,
-                 "name":"sign5",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"Success"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Track 5 Zeile 1:"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":0,
-                 "x":3492.66666666667,
-                 "y":1054
-                }, 
-                {
-                 "class":"variable",
-                 "height":0,
-                 "id":51,
-                 "name":"sign5_2",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"Stories"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Track 5 Zeile 2:"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":0,
-                 "x":3540.66666666667,
-                 "y":1052
-                }, 
-                {
-                 "class":"variable",
-                 "height":0,
                  "id":52,
                  "name":"sign6",
                  "point":true,
@@ -3410,6 +3364,52 @@
                  "class":"variable",
                  "height":0,
                  "id":54,
+                 "name":"sign5",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"Success"
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Track 5 Zeile 1:"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":0,
+                 "x":3498.33,
+                 "y":1069.67
+                }, 
+                {
+                 "class":"variable",
+                 "height":0,
+                 "id":55,
+                 "name":"sign5_2",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"Stories"
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Track 5 Zeile 2:"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":0,
+                 "x":3540,
+                 "y":1072
+                }, 
+                {
+                 "class":"variable",
+                 "height":0,
+                 "id":130,
                  "name":"sign3",
                  "point":true,
                  "properties":[
@@ -3426,13 +3426,13 @@
                  "rotation":0,
                  "visible":true,
                  "width":0,
-                 "x":3488.33,
-                 "y":1696.67
+                 "x":3492.33,
+                 "y":1709.67
                 }, 
                 {
                  "class":"variable",
                  "height":0,
-                 "id":55,
+                 "id":129,
                  "name":"sign3_2",
                  "point":true,
                  "properties":[
@@ -3449,8 +3449,8 @@
                  "rotation":0,
                  "visible":true,
                  "width":0,
-                 "x":3541,
-                 "y":1701
+                 "x":3543,
+                 "y":1708
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -10510,7 +10510,7 @@
          "y":0
         }],
  "nextlayerid":121,
- "nextobjectid":129,
+ "nextobjectid":131,
  "orientation":"orthogonal",
  "properties":[
         {
