@@ -405,7 +405,7 @@ WA.room.onLeaveLayer(zoneTutorial).subscribe(() => {
     closePopUp();
 
     if (isCoWebSiteOpened) {
-        WA.nav.closeCoWebSites();
+        WA.nav.closeCoWebSite();
         isCoWebSiteOpened = false;
     }
 })
