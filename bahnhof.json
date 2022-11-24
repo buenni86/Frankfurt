@@ -5704,7 +5704,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":".\/demobuero"
+                                 "value":"https:\/\/dbsw.sharepoint.com\/sites\/JAZ-digitalworkplace\/SitePages\/Lobby.aspx"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
