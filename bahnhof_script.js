@@ -410,7 +410,25 @@ WA.room.onLeaveLayer(zoneTutorial).subscribe(() => {
     }
 })
 
+WA.room.onEnterLayer("program2").subscribe(() => {
+   currentPopup =  WA.ui.openPopup("popUpProgram2","Noch Fragen?\nSprich uns während des Anwendertag im Informationsbereich an oder schreib uns eine kurze Mail mit deinen Fragen!",[
+        {
+            label: "OK",
+            callback: (popup => {
+                closePopUp();
+            })
+        },{
+            label: "E-Mail Team EVS",
+            callback: (popup => {
+				WA.nav.openTab("mailto:SendIn.Enterprise.VoIP.Services@deutschebahn.com")
+            })
+        }
+        ]);
+})
 
+WA.room.onLeaveLayer("program2").subscribe(() => {
+    closePopUp();
+})
 
 WA.onInit().then(async () => {
 	
