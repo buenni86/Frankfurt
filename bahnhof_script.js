@@ -214,6 +214,13 @@ WA.room.onLeaveLayer("portal_program").subscribe(() => {
     closePopUp();
 })
 
+
+WA.room.onEnterLayer("exit_portal_jaz").subscribe(() => {
+  WA.nav.goToPage("https://dbsw.sharepoint.com/sites/JAZ-digitalworkplace/SitePages/Lobby.aspx")
+})
+
+
+
 WA.room.onEnterLayer("jaz_program").subscribe(() => {
    currentPopup =  WA.ui.openPopup("popUpJaz","Für  einen noch stärkeren Konferenz- und Eventservice lässt sich DB WorkAdventure problemlos in JAZ integrieren!",[
         {
