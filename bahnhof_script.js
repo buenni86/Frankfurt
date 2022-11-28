@@ -379,6 +379,27 @@ WA.room.onEnterLayer("worldtour_program").subscribe(() => {
 WA.room.onLeaveLayer("worldtour_program").subscribe(() => {
     closePopUp();
 })
+
+WA.room.onEnterLayer("community_zone").subscribe(() => {
+   currentPopup =  WA.ui.openPopup("popUpCommunity","Du interessierst dich für ortsunabhängige Zusammenarbeit mit WorkAdventure und weiterführenden Technologien und Services? Werde Mitglied in unserer Metawork-Community!",[
+        {
+            label: "Beitreten",
+            callback: (popup => {
+				WA.nav.openTab("https://db.de/metawork")
+            })
+        },{
+            label: "Blick in die Zukunft",
+            callback: (popup => {
+				WA.nav.openCoWebSite("https://www.youtube-nocookie.com/embed/uVEALvpoiMQ?autoplay=1")
+            })
+        }
+        ]);
+})
+
+WA.room.onLeaveLayer("community_zone").subscribe(() => {
+    closePopUp();
+})
+
 WA.room.onEnterLayer("whiteboard_program").subscribe(() => {
    currentPopup =  WA.ui.openPopup("popUpWhiteboard","Auch das Conceptboard-Whiteboard ist in die Umgebung integrierbar.",[
         {

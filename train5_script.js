@@ -32,8 +32,8 @@ WA.onInit(async () => {
     
 })
 
-WA.room.onEnterZone("program1", () => { 
-	currentPopup =  WA.ui.openPopup("popUpProgram1","Ein ortsunabhängiges Weihnachtsevent für alle Teams der DB Immobilien? Kein Problem auf unserem virtuellen Weihnachtsmarkt!",[
+WA.room.onEnterZone("program1", () => {
+	currentPopup =  WA.ui.openPopup("popUpProgram1","Ein ortsunabhängiges Weihnachtsevent\nfür alle Teams der DB Immobilien?\nKein Problem auf unserem virtuellen Weihnachtsmarkt!",[
         {
             label: "OK",
             callback: (popup => {
@@ -59,7 +59,7 @@ WA.room.onEnterZone("program2", () => {
 	WA.room.onLeaveZone("program2", () => { closePopUp() })
 	
 WA.room.onEnterZone("program3", () => { 
-	currentPopup =  WA.ui.openPopup("popUpProgram3","Kollegen aus Nanjing, Neu-Delhi, Torronto, Warschau und Essen in den Austausch bringen? Kein Problem!",[
+	currentPopup =  WA.ui.openPopup("popUpProgram3","Kollegen aus Nanjing, Neu-Delhi, Torronto, Warschau und Essen in den Austausch bringen?\nKein Problem!",[
         {
             label: "OK",
             callback: (popup => {
@@ -73,7 +73,7 @@ WA.room.onEnterZone("program3", () => {
 	
 	
 WA.room.onEnterZone("program4", () => { 
-	currentPopup =  WA.ui.openPopup("popUpProgram4","Schulungsinhalte mit Gruppenarbeiten interaktiv vermitteln? Gestalte jetzt wie die Kollegen der DB Fernverkehr deinen begehbare Lernumgebung mit uns!",[
+	currentPopup =  WA.ui.openPopup("popUpProgram4","Schulungsinhalte mit Gruppenarbeiten interaktiv vermitteln? Gestalte jetzt wie die Kollegen der DB Fernverkehr\ndeinen begehbare Lernumgebung mit uns!",[
         {
             label: "OK",
             callback: (popup => {
