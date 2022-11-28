@@ -390,7 +390,7 @@ WA.room.onEnterLayer("community_zone").subscribe(() => {
         },{
             label: "Blick in die Zukunft",
             callback: (popup => {
-				WA.nav.openCoWebSite("https://www.youtube-nocookie.com/embed/uVEALvpoiMQ?autoplay=1")
+				WA.nav.openCoWebSite("https://www.youtube-nocookie.com/embed/uVEALvpoiMQ?autoplay=1", false, "autoplay; fullscreen; encrypted-media")
             })
         }
         ]);
