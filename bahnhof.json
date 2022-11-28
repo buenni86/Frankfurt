@@ -2618,6 +2618,23 @@
                  "width":18.698,
                  "x":3905.651,
                  "y":1189.51825
+                }, 
+                {
+                 "class":"",
+                 "height":20.296875,
+                 "id":133,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Press Start 2P",
+                     "text":"MetaWork-Community",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":291.03125,
+                 "x":2752.984375,
+                 "y":2401.3515625
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -11257,7 +11274,7 @@
          "y":0
         }],
  "nextlayerid":128,
- "nextobjectid":133,
+ "nextobjectid":134,
  "orientation":"orthogonal",
  "properties":[
         {
