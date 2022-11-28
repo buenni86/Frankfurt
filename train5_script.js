@@ -33,7 +33,7 @@ WA.onInit(async () => {
 })
 
 WA.room.onEnterZone("program1", () => { 
-	currentPopup =  WA.ui.openPopup("popUpProgram1","Auch im Arbeitsalltag sind unsere Umgebung als virtuelles Büro nutzbar! So bringen wir das Bürofeeling mit spontanem Austausch, Abstimmung, Hilfestellung und mehr Informationsfluss untereinander ins Homeoffice. So seid ihr standortunabhängig in eurem Büro vereint!",[
+	currentPopup =  WA.ui.openPopup("popUpProgram1","Ein ortsunabhängiges Weihnachtsevent für alle Teams der DB Immobilien? Kein Problem auf unserem virtuellen Weihnachtsmarkt!",[
         {
             label: "OK",
             callback: (popup => {
