@@ -15,7 +15,7 @@ var popUpStart = "popUpStart";
 var startMsg = "Willkommen bei unserer Live-Demo von DB WorkAdventure zum Digital Workplace Anwendertag!\n\nErkunde unsere Umgebung mit deinem Avatar, um die verschiedenen Funktionen und Möglichkeiten kennenzulernen. Nutze die Chance und #VernetzeDich mit anderen Teilnehmern!\nIm Programm des Anwendertages kannst du unseren Vortrag zu digital Eventplattformen bzw. unseren Markstand zur ortsunabhängigen Zusammenarbeit in virtuellen Büros besuchen, um mehr zu erfahren!";
 var popUpEmail = "popUpEmail";
 var mailMsg = "Bingo? Sende uns deine Bilder um zu gewinnen!";
-var mailToEvs = "mailto:SendIn.Enterprise.VoIP.Services@deutschebahn.com";
+var mailToEvs = "mailto:SendIn.Enterprise.VoIP.Services@deutschebahn.com?subject=WA-Mail";
 
 		
 function closePopUp(){
